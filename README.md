@@ -1,6 +1,6 @@
 # Digitalisierung
 Unterschiedliche Sachen zum Thema Digitalisierung (vor allem im Bereich Schule)  
-Project-LAnki (Unstable)
+# ***Project-LAnki (Unstable)***
 ```
 https://github.com/trashfactory/Project-LAnki/tree/Unstable
 ```
