@@ -1,0 +1,1928 @@
+puella	Mädchen, Freundin	
+serva	Sklavin, Dienerin	
+silva	Wald	
+via	Weg, Straße	
+villa	Haus, Landhaus	
+avus	Großvater	
+campus	Feld, freier Platz	
+equus	Pferd	
+murus	Mauer	
+servus	Sklave, Diener	
+vicus	Dorf, Gasse	
+et	und, auch	
+esse,sum,fui	sein, sich befinden	
+est	er (sie, es) ist	
+sunt	sie sind	
+ridere,rideo,risi,risum	lachen, auslachen	
+non	nicht	
+cur?	warum?	
+parere	gehorchen	
+monere,moneo,monui,monitum	mahnen, ermahnen	
+debere,debeo,debui,debitum	müssen, sollen	
+quid?	was?	
+timere	fürchten, Angst haben	
+oculus	Auge	
+dolere	schmerzen, wehtun	
+homilia serva	die Sklavin Homilia	
+nunc	nun, jetzt	
+tacere	schweigen, verschweigen	
+hic	hier	
+dominus	Herr	
+ibi	dort	
+sedere,sedo,sedi	sitzen	
+sed	aber, sondern	
+respondere,respondeo,respondi,responsum	antworten	
+quis?	wer?	
+augere,augeo,auxi,auctum	vergrößern, vermehren	
+neque,nec	und nicht, auch nicht	
+neque...neque	weder ... noch	
+terrere,terreo,terrui,territum	erschrecken	
+lingua	Sprache, Rede	
+nam	denn, nämlich	
+gaudere,gaudeo	sich freuen	
+amicus	Freund	
+docere,doceo,docui,doctum	lehren, unterrichten	
+studere,studeo	sich bemühen, studieren	
+tabula	(Schreib-)Tafel, Gemälde	
+tenere,teneo	halten, festhalten, besitzen	
+praebere,praebeo	geben, hinhalten	
+iam	schon, bereits; nun	
+primo	zuerst	
+tum	da, dann, darauf, damals	
+recte	richtig, zu Recht	
+non iam	nicht mehr	
+saepe	oft	
+numquam	niemals	
+sonus	Ton, Klang, Geräusch	
+latere,lateo	verborgen sein	
+subito	plötzlich	
+gladius	Schwert	
+torquere,torqueo,torsi,tortum	drehen, quälen	
+sceleratus	Verbrecher	
+flere,fleo,flevi	weinen, beweinen	
+placere,placeo	gefallen	
+cui?	wem?	
+statim	sofort	
+etiam	auch, sogar	
+iterum	wiederum, zum Zweiten Mal	
+itaque	deshalb	
+tantum	nur	
+linguam tantum servos terret.	Nur die Sprache erschreckt die Sklaven.	
+cibis	Nahrung, Speise, Futter	
+habere,habeo	haben, halten	
+complere,compleo,complevi	anfüllen, auffüllen	
+copia	Menge, Vorrat, Möglichkeit; Pl.Truppen	
+aqua	Wasser	
+ventus	Wind	
+delere,deleo,delevi	zerstören, vernichten	
+adhuc	bis jetzt, noch	
+populus	Volk	
+Aeolus	Äolus (Herr über die Winde)	
+deus	Gott, Gottheit	
+profecto	sicherlich, tatsächlich	
+gratia	Dank	
+gratiam habere	danken	
+semper	immer	
+valere,valeo	gesund sein, stark sein, Einfluss haben	
+vale!,valete!	Leb wohl! Lebt wohl!	
+lacrima	Träne	
+videre,video,vidi,visum	sehen	
+movere,moveo,movi,motum	bewegen, beeindrucken	
+tandem	endlich	
+mox	bald	
+turba	(Menschen-)Menge	
+patere,pateo	offenstehen	
+insula	Insel; Wohnblock	
+Roma	Rom	
+amica	Freundin	
+laetitia	Freude	
+domina	Herrin, Dame	
+rogare,rogo	bitten, fragen	
+amare,amo	lieben	
+parare,paro	(vor)bereiten, vorhaben (m. Inf.); erwerben	
+laborare,laboro	arbeiten, sich anstrengen	
+vocare,voco	nennen, benennen, berufen	
+properare,propero	eilen, sich beeilen	
+cena	Mahlzeit, Essen	
+filia	Tochter	
+intrare,intro	betreten, eintreten	
+mensa	(Ess-)Tisch	
+ornare,orno	ausstatten, schmücken	
+sic	so	
+delectare,delecto	erfreuen, unterhalten	
+familia	Familie	
+bene	gut	
+cenare,ceno	essen	
+spectare,specto	betrachten, anschauen, hinsehen	
+unde?	woher?	
+diu	lange (Zeit)	
+dubitare,dubito	zweifeln; zögern (m. Inf.)	
+Romanus	Römer, Einwohner Roms	
+pugna	Kampf	
+pugnare,pugno	kämpfen	
+superare,supero	besiegen, überwinden, übertreffen	
+Syria	Syrien	
+patritia	Heimat	
+provincia	Provinz	
+Europa	Europa	
+Asia	Asien	
+Africa	Afrika	
+dolus	List, Täuschung	
+iniuria	Unrecht, Beleidigung	
+captivus	Kriegsgefangener	
+filius	Sohn	
+cottidie	täglich	
+vigilare,vigilo	wachen; unermüdlich tätig sein	
+thesaurus	Schatz	
+invitare,invito	einladen	
+cavus	Höhle	
+modestia	Anstand, Bescheidenheit	
+luxuria	Luxus, Genusssucht	
+noctu	nachts	
+appropinquare,appropinquo	sich nähern	
+recusare,recuso	zurückweisen, ablehnen	
+exspectare,exspecto	warten (auf), erwarten	
+venire,venio,veni,ventum	kommen	
+audire,audio	hören	
+nihil	nichts	
+ludus	Spiel; Schule	
+scire,scio	wissen, kennen, verstehen	
+Creta	Kreta (Insel im Mittelmeer)	
+desiderare,desidero	sich sehen nach, vermissen	
+patriam desiderare	sich nach der Heimat sehnen	
+ubi?	wo?	
+nescire,nescio	nicht wissen, nicht kennen, nicht verstehen	
+Sicilia	Sizilien (Insel im Mittelmeer)	
+Aetna	Ätna (Vulkan auf Sizilien)	
+Vulcanus	Vulkan(us) (Gott des Feuers)	
+habitare,habito	wohnen, bewohnen	
+discipulus	Schüler	
+libenter	gerne	
+ingenium	Begabung, Talent, Verstand	
+consilium	Beratung, Beschluss, Plan, Rat	
+forum	Forum, Marktplatz	
+aedificum	Gebäude	
+curia	Kurie (Sitzungsgebäude des Senats)	
+templum	Tempel	
+dea	Göttin	
+Saturnis	Saturn (Gott der Saat und der Zeit)	
+Concordia	Concordia (Göttin der Eintracht)	
+aedificare,aedifico	bauen	
+porta	Tor	
+beneficium	Wohltat	
+frumentum	Getreide	
+donum	Geschenke	
+verbum	Wort, Äußerung	
+imperium	Befehl, Herrschaft, Reich	
+novus,nova,novum	neu, ungewöhnlich	
+-que	und (angehängt)	
+servi servaeque	Sklaven und Sklavinnen	
+multus,multa,multum	viel	
+multi,multae,multa	viele	
+de	von, von ... her, von ... weg, von ...herab; über	
+de templo	vom Tempel herab	
+cuncti,cunctae,cuncta	alle (zusammen)	
+Romanus,Romana,Romanum	römisch	
+bonus,bona,bonum	gut, tüchtig	
+magnus,magna,magnum	groß, bedeutend	
+ut	wie	
+laudare,laudo	loben	
+tuus,tua,tuum	dein	
+narrare,narro	erzählen	
+de ludo narrare	vom Spiel/über das Spiel erzählen	
+meus,mea,meum	mein	
+parvus,parva,parvum	klein, gering	
+vir,viri	Mann	
+puer,pueri	Junge	
+ager, agri	Acker, Feld, Gebiet	
+magister, magistri	Lehrer, Meister	
+imperare,impero	befehlen, herrschen (über)	
+populis imperare	über (die) Völker herrschen	
+pulcher,pulchra,pulchrum	schön	
+niger,nigra,nigrum	schwarz, dunkel	
+liber,libera,liberum	frei	
+miser,misera,miserum	arm, erbärmlich, unglücklich	
+vita	Leben	
+noster,nostra,nostrum	unser	
+vester,vestra,vestrum	euer	
+carrus	Wagen, Karren	
+stare,sto,steti	stehen	
+dicere,dico,dixi,dictum	sagen, sprechen [m. dopp. Akk. nennen, bezeichnen (als)]	
+nuntius	Bote, Nachricht	
+mittere,mitto,misi,missum	(los)lassen, schicken, werfen	
+scribere,scribo,scripsi,scriptum	schreiben, beschreiben	
+relinquere,relinquo,reliqui,relictum	verlassen, zurücklassen	
+ducere,duco,duxi,ductum	führen, ziehen [m. dopp. Akk. halten für]	
+trahere,traho,traxi	schleppen, ziehen	
+ostendere,ostendo,ostendi	zeigen, erklären	
+oppidum	Stadt (Kleinstadt)	
+Campania	Kampanien (fruchtbare Landschaft südlich von Rom)	
+Vesuvius	Vesuv (Vulkan in Kampanien)	
+a,ab	von, von ... her	
+ab oppido venire	von der Stadt kommen	
+a basilica venire	von der Markthalle kommen	
+per	durch, hindurch	
+per silvam	durch den Wald	
+vinea	Weinberg, Weinstock	
+educere,educo	herausführen	
+consistere,consisto,constiti	stehenbleiben, haltmachen, sich aufstellen	
+deducere,deduco,deduxi,deductum	wegführen, hinführen	
+adducere,adduco,adduxi,adductum	heranführen, veranlassen	
+bibere,bibo,bibi	trinken	
+portare,poto	bringen, tragen	
+vinum	Wein	
+auxilium	Hilfe	
+adesse,adsum	da sein, helfen	
+amico adesse	dem Freund helfen	
+deesse,desum,defui	abwesend sein, fehlen	
+mortuus,mortua,mortuum	gestorben, tot	
+plenus,plena,plenum	voll	
+posse,possum,potui	können	
+facere,facio,feci,factum	machen, tun, handeln; [m. dopp. Akk. jdn. zu etw. machen]	
+sacrum	Opfer, Heiligtum	
+sacrum facere	ein Opfer bringen, opfern	
+autem	aber, anderseits (nachgestellt)	
+pueri autem tacent.	Die Jungen aber schweigen.	
+descendere,descendo,descendi	herabsteigen	
+nonne?	(etwa) nicht?	
+magis	mehr	
+quam	als, wie; mit Superlativ möglichst	
+quam pulchrum est templum!	Wie schön ist der Tempel!	
+magis...quam	mehr ... als	
+capere,capio,cepi,captum	fassen, nehmen; erobern	
+aspicere,aspicio,aspexi	erblicken, ansehen	
+quin?	warum nicht?; (in festen Wendungen) dass	
+summus,summa,summum	der höchste, oberste	
+ideo	deshalb	
+magnificus,magnifica,magnificum	großartig, prächtig	
+cubiculum	Zimmer, Schlafzimmer	
+balineum	Bad	
+atrium	Atrium (Eingangshalle)	
+alibi	anderswo	
+cella	Kammer	
+custodire, custodio	bewachen, im Auge behalten	
+mundus	Welt	
+mulier,mulieris	Frau	
+quia	weil	
+se	sich	
+quod	weil; dass	
+dum	während, solange, bis	
+animus	Geist, Mut, Gesinnung	
+in animo habere	im Sinn haben, vorhaben	
+velle,volo,volui	wollen	
+amor,amoris	Liebe	
+soror,sororis	Schwester	
+si	wenn, falls	
+fur,furis	Dieb	
+clamor,clamoris	Geschrei, Lärm	
+pecunia	Geld, Vermögen	
+quamquam	obwohl	
+liberare,libero	befreien, freilassen	
+salutare,saluto	(be)grüßen	
+salve!,salvete!	sei gegrüßt! seid gegrüßt	
+frater,fratris	Bruder	
+pater,patris	Vater	
+mater,matris	Mutter	
+tam	so	
+tam...quam	so ... wie	
+Capua non tam pulchra est quam Roma	Capua ist nicht so schön, wie Rom	
+civitas,civitatis	Gemeinde, Staat; das Bürgerrecht	
+Caesar,Caesaris	Cäsar, Kaiser	
+libertas,libertatis	Freiheit	
+Vespasianus	Vespasian (röm. Kaiser 69-79 n. Chr.)	
+potestas,potestatis	(Amts-)Gewalt, Macht	
+voluntas,voluntatis	Wille, Absicht	
+carus	lieb, teuer, wertvoll	
+heri	gestern	
+servitus,servitutis	Sklaverei	
+antiquus	alt, altertümlich	
+Iuppiter,Iovis	Jupiter (höchster Gott der Römer)	
+caelum	Himmel	
+terra	Erde, Land	
+Minerva	Minerva (Göttin der Weisheit)	
+Diana	Diana (Göttin der Jagd)	
+bestia	(wildes) Tier	
+Neptunus	Neptun (Gott des Meeres)	
+Mercurius	Merkur (Götterbote)	
+ceteri	die Übrigen	
+dare,do,dedi,datum	geben	
+varius	bunt, verschieden, vielfältig	
+servare,servo	bewahren, retten; beobachten	
+solum	nur	
+nuntiare,nuntio	melden	
+existimare,existimo	meinen, einschätzen	
+amphitheatrum	Amphitheater	
+propter	wegen	
+propter amorem	wegen der Liebe	
+gladiator,gladiatoris	Gladiator	
+urbs,urbis	Stadt; die Stadt Rom	
+pars,partis	Teile, Seite	
+victor,victoris	Sieger	
+exercere,exerceo	üben, trainieren, quälen	
+mors,mortis	Tod	
+dolor,doloris	Schmerz	
+vel	oder	
+aqua vel vinum	Wasser oder Wein	
+negotium	Aufgabe, Geschäft; Angelegenheit	
+interficere,interficio,interfeci,interfectum	töten, vernichten	
+annus	Jahr	
+virtus,virtutis	Tapferkeit, Tüchtigkeit, Leistung	
+sol,solis	Sonne	
+regio,regionis	Gebiet, Gegend, Richtung	
+natio,nationis	Volk, Volksstamm	
+homo,hominis	Mensch	
+multitudo,multitudinis	große Zahl, Menge	
+mons,montis	Berg	
+fons,fontis	Quelle, Ursprung	
+magnitudo,magnitudinis	Größe	
+hora	Stunde	
+surgere,surgo,surrexi	aufrichten, sich erheben, aufstehen	
+nisi	wenn nicht	
+amittere,amitto,amisi	aufgeben, verlieren	
+leo,leonis	Löwe	
+mirus	erstaunlich, sonderbar	
+antea	vorher, früher	
+primum	erstens, zuerst, zum ersten Mal	
+curare	pflegen, sorgen für	
+equum curare	das Pferd pflegen	
+familiam curare	für die Familie sorgen	
+periculum	Gefahr	
+malus	schlecht, schlimm	
+sub	unter (wo?) Präp m. Abl. | unter (wohin?) Präp m. Akk.	
+sub carrum esse	unter dem Wagen liegen	
+sub carrum trahere	unter den Wagen ziehen	
+monstrum	Ungeheuer	
+an	oder (etwa) (im Fragesatz)	
+timor,timoris	Angst, Furcht	
+di!	(oh) Götter!	
+cum(Subj.)	als (plötzlich), (immer) wenn	
+altus	hoch, tief	
+vox, vocis	Stimme, Äußerung, Laut	
+magna voce	mit lauter Stimme	
+tectum	Dach; Haus	
+lux, lucis	Licht, Tageslicht	
+nox, noctis	Nacht	
+nondum	noch nicht	
+salus, salutis	Gesundheit, Rettung, Gruß, Glück	
+fuga	Flucht	
+liberi,liberorum	Kinder	
+temptare,tempto	angreifen; prüfen, versuchen	
+tenebrae,tenebrarum	Dunkelheit, Finsternis	
+iacere,iaceo	liegen	
+cadere,cado,cecidi	fallen	
+castra,castrorum	Lager	
+arma,armorum	Gerät, Waffen	
+is, ea,id	dieser, diese, dieses; er, sie, es	
+dic!	sag! sprich!	
+duc!	führe!	
+Pompei,Pompeiorum	Pompeji (Stadt in Mittelitalien)	
+fac!	tu! mach! handle!	
+postea	nachher, später	
+reliquiae,reliquiarum	Überbleibsel, Überrest, Ruine	
+senator,senatoris	Senator	
+mercator,mercatoris	Kaufmann, Händler	
+vendere,vendo	verkaufen	
+clarus	klar, hell berühmt	
+imperator,imperatoris	Befehlshaber, Feldherr, Kaiser	
+Titus	Titus (röm. Kaiser 79-81 n. Chr)	
+Pompeianus,Pompeiana,Pompeianum	popejanisch; Subst. Pompejaner, Einwohner Pompejis	
+honor,honoris	Ehre, Ehrenamt	
+in honore esse	in Ehre stehen, angesehen sein	
+hodie	heute	
+tantus,tanta,tantum	so groß, so viel	
+creare,creo	erschaffen, wählen	
+petere,peto,petivi,petitum	aufsuchen, (er)streben, bitten, verlangen	
+licet	es ist erlaubt; es ist möglich	
+uxor,uxoris	Ehefrau	
+apud	bei	
+apud amicos	bei den Freunden	
+avunculus	Onkel	
+triclinium	Esszimmer, Triklinium	
+columna	Säule	
+spectaculum	Schauspiel	
+observare,observo	beobachten	
+fuga salutem petere	In der Flucht die Rettung aufsuchen, die Flucht ergreifen	
+monumentum	Denkmal	
+sentire,sentio,sensi	fühlen, meinen, wahrnehmen	
+ora	Küste	
+studium	Beschäftigung, Engagement, Interesse	
+statue	Statue	
+ecce	Schaue! Sieh da! Seht da!	
+Hercules	Herkules (berühmtester Held der griechischen Sagenwelt)	
+etsi	auch wenn, obwohl	
+occidere,occido,occidi,occisum	(zu Boden) fallen, umkommen, untergehen. niederschlagen, töten	
+enim	nämlich, denn (nachgestellt)	
+praestare,praesto,praesti	gewähren, leisten, zeigen [m. Dat. übertreffen]	
+vincere,vinco,vici,victum	(be)siegen, übertreffen	
+ita	so	
+Augias,Augiae	Augias (mythischer König)	
+rex,regis	König	
+vix	kaum, (nur) mit Mühe	
+factum	Handlung, Tat, Tatsache	
+agere,ago,egi,actum	handeln, treiben, verhandeln	
+comprehendere,comprehendo,comprehendi,comprehensum	begreifen, ergreifen, festnehmen	
+fluvius	Fluss	
+consilium capere	einen Plan (Entschluss) fassen	
+vertere,verto,verti,versum	drehen, wenden	
+fabula	Erzählung, Geschichte, Theaterstück	
+Eurystheus	Eurystheus (mythischer König von Mykene)	
+gaudere	sich freuen über	
+auxilio gaudere	sich über die Hilfe freuen	
+laborare	leiden an, in Not / Sorge sein wegen	
+doloribus laborare	an Schmerzen leiden	
+dolere	traurig sein über	
+iniuria dolere	über ein Unrecht traurig sein	
+carere, careo	frei sein von, ohne (etwas) sein, nicht haben	
+amicis carere	keine Freunde haben, ohne Freunde sein	
+labor, laboris	Arbeit, Anstrengung, Leid, Mühsal	
+liber	frei von	
+liber (a) timore	frei von Angst	
+officium	Dienst, Pflicht(gefühl)	
+eo anno	in diesem Jahr	
+tamen	dennoch, jedoch	
+nocte	nachts	
+paulo post	(ein) wenig später	
+Pluto, Plutonis	Pluto (Gott der Unterwelt)	
+prohibere, prohibeo	abhalten (von), hindern (an)	
+(a) lacrimis prohibere	von (den) Tränen abhalten, am Weinen hindern	
+Cerberus	Zerberus (der dreiköpfige Höllenhund)	
+servare	bewahren (vor), retten (vor)	
+primus	der Erste	
+prima luce	bei Tagesanbruch	
+ea hora	in dieser Stunde	
+Dido,Didonis	Dido (die Gründerin und Königin Karthagos)	
+civis	Bürger	
+Aeneas,Aeneae	Äneas (Tojaner und Stammvater der Römer)	
+sibi	sich	
+quaerere,quaero,quaesivi,quaesitum	erwerben wollen, suchen, fragen	
+suus	sein, ihr	
+secum	mit sich, bei sich	
+cogitare,cogito	denken, beabsichitigen	
+convenire,convenio,conveni	zusammenkommen, zusammenpassen, besuchen	
+maritus	Ehemann	
+vivere,vivo,vixi	leben	
+oportet	es gehört sich, es ist nötig	
+te venire oportet	Es ist nötig, dass du kommst. Du musst kommen	
+Carthago,Carthaginis	Karthago (Stadt in Nordafrika)	
+finis	Ende, Grenze, Ziel, Zweck; Pl. Gebiete	
+Troianus	trojanisch; Subst. Trojianer, Einwohner von Troja	
+Graeci	die Griechen	
+putare,puto	glauben, meinen [m. dopp. Akk. halten für]	
+certe,certo	gewiss, sicherlich	
+bellum	Krieg	
+paulatim	allmählich	
+cedere,cedo,cessi	gehen, nachgeben, weichen	
+alius, alia,aliud	ein anderer	
+animadvertere,animadverto,animadverti,animadversum	bemerken	
+Laocoon,Laocoontis	Laokoon (trojanischer Priester)	
+honestus	ehrenhaft, angesehen	
+constat	es ist bekannt, es steht fest	
+constat Herculem hominibus adfuisse.	Es ist bekannt, dass Herkules den Menschen half.	
+Latini,Latinorum	die Latiner	
+munire,munio	bauen, befestigen, schützen	
+circum	rings um, um ... herum	
+circum muros	um die Mauern (herum)	
+Latinus	Latinus (König der Latiner)	
+desperare,despero	die Hoffnung aufgeben, verzweifeln	
+de salute desperare	die Hoffnung auf Rettung aufgeben	
+Turnus	Turnus (Anführer der Rutuler, Gegner Äneas)	
+sperare,spero	erwarten, hoffen	
+demonstrare,demonstro	beweisen, darlegen	
+audacia	Frechheit, Kühnheit	
+violare,violo	verwunden, verletzen, entehren	
+ferrum	Eisen; Waffe	
+Italia	Italien	
+caedere,caedo,cecidi	fällen, töten	
+donare,dono	schenken	
+venia	Gefallen; Nachsicht, Verzeihung	
+quidem	freilich, gewiss, wenigstens, zwar	
+Faustulus	Faustulus (Hirte, der Romulus und Remus entdeckte)	
+acer,acris,acre	energisch, ,heftig, scharf	
+pellere,pello,pepuli,pulsum	stoßen, schlagen, (ver)treiben	
+celer,celeris,celere	schnell	
+tamquam	[Adv. wie ]Sub. wie wenn, als ob	
+signum	Merkmal, Zeichen, Statue	
+Romulus,Remus	Romulus / Remus (Zwillingsbrüder und sagenhafte Gründer Roms)	
+iuvenis	junger Mann; Adj. jung	
+comes,comitis	Begleiter(in), Gefährte, Gefährtin	
+miles,militis	Soldat	
+repellere,repello,reppuli	zurückstoßen, abweisen, vertreiben	
+locus	Ort, Platz, Stelle	
+unus	einer, ein einziger	
+unus e/ex	einer von	
+fortis	kräftig, tapfer	
+tristis	traurig, unfreundlich	
+defendere,defendo,defendi,defensum	abwehren, verteidigen (vor / gegen)	
+Amulius	Armulius (König von Alba, Bruder des Numitor)	
+accusare,accuso	anklagen, beschuldigen	
+turpis	unanständig, hässlich, schändlich	
+postquam	nachdem, als	
+Numitor,Numitoris	Numitor (König von Alba, Großvater von Romulus und Remus)	
+dulcis	angenehm, süß	
+crudelis	grausam	
+omnis	jeder, ganz; Pl. alle	
+qui,quae,quod	welcher, welche, welches; der, die, das	
+idoneus	geeignet, passend	
+deligere,deligo,delegi,delectum	(aus)wählen	
+condere,condo,condidi,conditum	verwahren, verbergen; erbauen, gründen	
+maxime	am meisten, besonders	
+opportunus	geeignet, günstig	
+natura	Natur, Wesen, Beschaffenheit	
+multum	sehr, viel	
+multum valere	großen Einfluss haben	
+Aventinus	der Aventin (am Tiber gelegener Hügel Roms)	
+contendere,contendo,contendi	sich anstrengen, kämpfen; eilen; behaupten	
+Palatium	der Palatin (einer der sieben Hügel Roms)	
+sex	sechs	
+Livius	Titus Livius (berühmter römischer Gedichtsschreiber, 59 v. Chr. - 17 n. Chr.)	
+accipere,accipio,accepi	erhalten, erfahren, annehmen	
+et...et	sowohl ... als auch	
+arcessere,arcesso,arcessivi,arcessitum	herbeirufen, holen	
+communis	gemeinsam, allgemein	
+tutus	sicher	
+hostis	Feind (Landesfeind)	
+occupare,occupo	besetzen, einnehmen	
+quemadmodum	auf welche Weise, wie	
+fortuna	Schicksal, Glück	
+gloria	Ruhm, Ehre	
+inanis	leer, wertlos	
+credere,credo,credidi	glauben, anvertrauen	
+cura	Pfelge, Sorge	
+quando	wann?	
+beatus	glücklich, reich	
+aestas,aestatis	Sommer	
+vitam agere	ein Leben führen, leben	
+mos,moris	Sitte, Brauch; Pl. Charakter	
+Sabinus	sabinisch; Subst. Sabiner (inn der Nähe Roms lebender Volksstamm)	
+confirmare,confirmo	bekräftigen, ermutigen, stärken	
+omittere,omitto,omisi	aufgeben, beiseite lassen	
+aperire,aperio,aperui	aufdecken, öffnen	
+Hersilia	Hersilia (die sabinische Ehefrau des Romulus)	
+gerere,gero,gessi,gestum	ausführen, führen, tragen	
+bellum gerere	Krieg führen	
+Tatius	Tatius (König der Sabiner)	
+stultus	dumm	
+ergo	also, deshalb	
+Spurius Tarpeius	Spurius Tarpeius (römischer Befehlshaber)	
+Capitolium	das Kapitol (bedeutendster der sieben Hügel Roms)	
+resistere,resisto,restiti	stehenbleiben; Widerstand leisten	
+praemium	Belohnung, Lohn	
+appetere,appeto,appetivi	erstreben, haben wollen; angreifen	
+Tarpeia	Tarpeia (Tochter des Spurius Tarpeius)	
+concedere,concedo,concessi	erlauen, nachgeben, zugestehen	
+aureus	golden, ,aus Gold	
+ire,eo,ii	gehen	
+iudex,iudicis	der Richter	
+forma	die Form	
+Olympus	der Olymp (Götterberg in Makedonien)	
+adire,adeo,adii	herantreten (an), bitten, aufsuchen	
+senatorem adire	an einen Senator herantreten, einen Senator bitten	
+circum Maximum adire	den Circus Maximus aufzusuchen	
+inire,ineo,inii	hineingehen (in), beginnen	
+exire,exeo,exii,exitum	herausgehen, hinausgehen; zu Ende gehen	
+nullus	kein	
+praeterire,praetereo,praeterii	vorbeigehen (an), übergehen	
+castra praeterire	am Lager vorbeigehen	
+factum praeterire	eine Tatsache übergehen	
+Venus,Veneris	Venus (Göttin der Liebe)	
+femina	die Frau	
+abire,abeo,abii	weggehen	
+denique	schließlich, zuletzt	
+metus,metus	Angst	
+Tarquinius Superbus	Tarquinius Superbus (letzter etruskischer König von Rom)	
+superbus	stolz, überheblich	
+Brutus	Lucius Junius Brutus (Befreier Roms)	
+gemitus	Seufzen, Traurigkeit	
+portus	Hafen	
+pertinere,pertineo ad	betreffen, gehören (zu), sich erstrecken (bis)	
+vultus	Gesicht, Gesichtsausdruck; Pl. Gesichtszüge	
+manus	Hand; Schar (von Bewaffneten)	
+talis	derartig, ,ein solcher, so (beschaffen)	
+laetus	froh; fruchtbar	
+igitur	also, folglich	
+Hector,Hectoris	Hektor (trojanischer Held im Kampf gegen die Griechen)	
+Achilles,Achillis	Achilles (griechischer Held im Trojanischen Krieg)	
+ille,illa,illud	jener, jene, jenes; der (dort); damalig, berühmt	
+Ille vir est servus	Jener Mann (der Mann dort) ist ein Sklave	
+Vocem illius audio	Ich höre die Stimme von jenem (seine Stimme)	
+hostes petere	die Feinde angreifen	
+hic,haec,hoc	dieser, diese, dieses (hier); folgender	
+Hunc militem laudo.	Diesen Soldaten (hier) lobe ich.	
+Miles haec dixit	Der Soldat sagt Folgendes.	
+contra	gegen	
+Mars,Martis	Mars (römischer Kriegsgott)	
+fugere,fugio,fugi	fliehen (vor), meiden	
+periculum fugere	vor der Gefahr fliehen, die Gefahr meiden	
+sors,sortis	das Los, der Orakelspruch, das Schicksal	
+umquam	jemals	
+memoria	die Erinnerung, das Gedächtnis; die Zeit	
+memoria tenere	im Gedächtnis behalten	
+memoria patrum	zu Zeit der Väter	
+ne...quidem	nicht einmal	
+ne Mars quidem	nicht einmal Mars	
+facilis	leicht (zu tun)	
+umerus	der Oberarm, die Schulter	
+sinere,sino,sivi	(zu)lassen, erlauben	
+Liberos vinum bibere non sinimus	Wir lassen nicht zu (erlauben nicht), dass die Kinder Wein trinken.	
+res,rei	Angelegenheit, Ding, Sache	
+causa	Sache, Ursache, Grund; Prozess	
+medius	der mittlere, in der Mitte (von)	
+media in turba	mitten in der Menge	
+Lucretia	Lukretia (Heldin der röm. Frühgeschichte)	
+res publica	Staat	
+pernicies,perniciei	Verderben, Vernichtung	
+res adversae	Unglück	
+res futurae	Zukunft	
+res secundae	Glück	
+spes,spei	Erwartung, Hoffnung	
+dies,diei	Tag	
+felix,felicis	erfolgreich, glückbringend, glücklich	
+vetus,veteris	alt	
+dives,divitis	reich	
+pauper,pauperis	arm	
+auctor,auctoris	der Urheber, der Gründer, der Schriftsteller, der Verfasser	
+nonnulli	einige, manche	
+sapiens	klug, weise	
+Cassandra	Kassandra (Tochter des Priamos)	
+Apollo,Apollinis	Apollon (Gott der Künste)	
+omnia,omnium	alles	
+omnia posse	alles können	
+liber,libri	das Buch	
+legere,lego,legi,lectum	lesen; auswählen	
+Troia	Troja (Stadt in Kleinasien)	
+multa,orum	viel(es)	
+multa scire	viel(es) wissen	
+diligens,diligentis	gewissenhaft, sorgfältig	
+intus	im Inneren, innen	
+Ulixe,Ulixis	Ulixes (lat. Name des Odysseus)	
+equidem	(ich) allerdings, freilich	
+incipere,incipio,coepi,incepi,inceptum	anfangen, beginnen	
+currere,curro,cucurri	laufen, eilen	
+ingens,ingentis	gewaltig, ungeheuer	
+atque,ac	und, und auch	
+conspectus	der Anblick, das Blickfeld	
+turbare,turbo	durcheinanderbringen, stören	
+deinde	dann, darauf	
+sollicitare,sollicito	aufhetzen, beunruhigen, erregen	
+laedere,laedo,laesi,laesum	beschädigen, verletzen, beleidigen	
+cessare,cesso	zögern, rasten	
+mutare,muto	(ver)ändern, verwandeln	
+arena	der Sand, der Kampfplatz	
+impetus	der Angriff, der Schwung	
+quoque	auch (nachgestellt)	
+ego quoque gaudeo.	Auch ich freue mich.	
+instare,insto,institi	bevorstehen, hart zusetzen	
+hostibus instare	den Feinden hart zusetzen	
+navigium	das Schiff	
+iterum atque iterum	immer wieder	
+perterrere,perterreo,perterrui,perterritum	sehr erschrecken, einschüchtern	
+obicere,ocicio,obieci,obiectum	darbieten, vorwerfen	
+sceleratum bestiis obicere	einen Verbrecher den wilden Tieren vorwerfen	
+comiti iniuriam obicere	den Gefährten ein Unrecht vorwerfen	
+tegere,tego,texi,tectum	schützen (vor); bedecken, verbergen	
+placidus	friedlich, ruhig, sanft	
+excitare,excito	erregen, ermuntern, wecken	
+telum	die (Angriffs-)Waffe, das Geschoss	
+supplicium	die Strafe, die Hinrichtung, das flehentliche Bitten	
+supplicium timere	vor der Strafe Angst haben	
+suppliciis deos movere	durch flehentliches Bitten die Götter bewegen	
+infelix,infelicis	unglücklich	
+dignus	wert, würdig (einer Sache)	
+praemio dignus	einer Belohnung würdig	
+flagitium	die Schandtat, die Gemeinheit	
+tempus,temporis	die (günstige) Zeit, die Umstände	
+nomen,nominis	der Name	
+gens,gentis	der Familienverband, der Stamm, das Volk	
+sanguis,sanguinis	das Blut	
+vulnus,vulneris	die Wunde, der (milit.) Verlust	
+pes,pedis	der Fuß	
+pectus,pectoris	die Brust, das Herz	
+domus	das Haus	
+corpus,corporis	der Körper, der Leichnam	
+rapere,rapio,rapui,raptum	wegführen, rauben, wegreißen	
+scelus,sceleris	das Verbrechen	
+crimen,criminis	das Verbrechen, der Vorwurf, die Beschuldigung	
+accidere,accido,accidi	geschehen, sich ereignen	
+quot?	wie viele?	
+quot senatores adsunt	Wie viele Senatoren sind da?	
+negare,nego	leugnen, verneinen, verweigern	
+sanctus	ehrwüridg, heilig	
+hostia	das Opfertier, das Schlachtopfer	
+fundere,fundo,fudi	(aus)gießen, zerstreuen	
+prex,precis	das Bitten, das Gebet	
+carmen,carminis	das Gedicht, das Lied	
+cantare,canto	singen, dichten	
+perire,pereo,perii	umkommen, zugrunde gehen	
+sacerdos,sacerdotis	der (die) Priester(in)	
+senatus	der Senat, die Senatsversammlung	
+religio,religionis	der Glaube, der Aberglaube, die (Gottes-)Verehrung, die Frömmigkeit, die Gewissenhaftigkeit	
+genus,generis	die Abstammung, die Art, das Geschlecht	
+reprehendere,reprehendo,reprehendi,reprehensum	schimpfen, kritisieren	
+redire,redeo,redii	zurückgehen, zurückkehren	
+certus	sicher, bestimmt	
+tribuere,tribuo,tribui,tributum	schenken, zuteilen	
+quindecim	fünfzehn	
+caput,capitis	der Kopf, die Hauptstadt	
+caput mihi dolet.	der Kopf tut mir weh.	
+Roma caput imperii est	Rom ist die Hauptstadt des Reiches	
+animal,animalis	das Lebewesen, das Tier	
+sexaginta	sechzig	
+numerus	die Zahl, die Menge	
+pronuntiare,pronuntio	bekannt geben, vortragen	
+trecenti	dreihundert	
+Tiberis	der Tiber (Fluss durch Rom)	
+centum	hundert	
+ducenti	zweihundert	
+moenia,moenium	die Mauern, die Stadtmauern	
+mille	tausend	
+milia,milium	tausend, Tausende	
+turris	der Turm	
+ignis	das Feuer	
+navis	das Schiff	
+mare,maris	das Meer	
+totus	ganz, gesamt	
+species,speciei	der Anblick, das Aussehen, der Schein	
+complures,complura	mehrere	
+Graecia	Griechenland	
+circiter	ungefähr	
+littera	der Buchstabe; Pl. der Brief; die Literatur, die Wissenschaft	
+lex,legis	das Gesetz, die Bedingung	
+impedire,impedio	hindern, verhindern	
+damnare,damno	verurteilen (wegen)	
+furem criminis damnare	einen Dieb wegen eines Verbrechens verurteilen	
+poena	die Strafe	
+ira	der Zorn, die Wut	
+remanere,remaneo,remansi	(zurück)bleiben	
+dux,ducis	der (die) Anführer(in)	
+pax,pacis	der Frieden	
+paene	fast	
+socius	der Gefährte, der Verbündete	
+huc	hierher	
+gravis	schwer	
+quo?	wohin? wo?	
+servire,servio	dienen, Sklave sein	
+clementia	die Milde, die Nachsicht	
+auctoritas,auctoritatis	das Ansehen, der Einfluss, die Macht	
+conicere,conicio,conieci,coniectum	(zusammen)werfen, folgern, vermuten	
+pauci	wenige	
+recitare,recito	vortragen, vorlesen	
+vis	die Gewalt, die Kraft, die Menge	
+undique	von allen Seiten, von überallher	
+ventum est	man kam	
+alius..alius	der eine ... der andere	
+calamitas,calamitatis	der Schaden, das Unglück	
+Europa	Europa (Tochter des phönizischen Königs Agenor)	
+litus,litoris	die Küste, der Strand	
+virgo,virginis	das Mädchen, die Jungfrau	
+taurus	der Stier	
+considere,consido,consedi,consessum	sich setzen, sich niederlassen	
+praeclarus	großartig	
+tangere,tango,tetigi,tactum	berühren	
+tergum	der Rücken	
+at	aber, dagegen, jedoch	
+amore capi	von der Liebe ergriffen werden	
+Tanta	Tantalus (Sohn des Jupiters und Vater der Niobe)	
+constituere,constituo,constitui,constitutum	festsezten, beschließen	
+interrogare,interrogo	fragen	
+placet	es gefällt jdm., jd. beschließen	
+mihi placet	es gefällt mir, ich beschließe	
+modus	die Art, die Weise; das Maß	
+eius modi,eiusmodi	derartig, so beschaffen	
+bono animo esse	guten Mutes sein, zuversichtlich sein	
+mortalis	sterblich; Subst. der Mensch	
+necessarius	notwendig	
+plenus	voll (von / mit)	
+plenus timoris	voller Angst	
+vinculum	das Band, die Fessel; Pl. das Gefängnis	
+in vincula dare	fesseln, in Fesseln legen, gefangen nehmen	
+statuere,statuo,statui,statutum	aufstellen, beschließen, festsezten	
+Tartarus	der Tartarus, die Unterwelt	
+Daedalus	Dädalus (berühmter Baumeister und Erfinder aus Athen)	
+Icarus	Ikarus (Sohn von Dädalus)	
+somnus	Schlaf	
+mora	der Aufenthalt, die Verzögerung	
+nemo,neminis	niemand	
+retinere,retineo,retinui,retentum	zurückhalten, festhalten, behalten	
+latus	breit, ausgedehnt	
+volare,volo	fliegen, eilen	
+priusquam	bevor, eher als	
+Aderam priusquam venisti	Ich war da, bevor du gekommen bist. Ich war eher da, als du gekommen bist.	
+vitare,vito	meiden, vermeiden	
+unda	die Welle, das Gewässer	
+aer,aeris	die Luft	
+solvere,solvo,solvi,solutum	lösen, auflösen; bezahlen	
+vincula solvere	die Fessel lösen	
+poenam solvere	Strafe zahlen, bestraft werden	
+vehemens,vehementis	energisch, heftig	
+Ariadna	Ariadne (Tochter des Königs von Minos)	
+Theseus,Thesei	Theseus (athenischer Held)	
+fraus,fraudis	der Betrug, die List	
+clam	heimlich	
+formosus	schön, hübsch	
+affirmare,affirmo	behaupten, bestätigen	
+Minotaurus	der Minotaurus (ein halb stier-, halb menschengestaltiges Ungeheuer)	
+immanis	furchtbar, schrecklich	
+contemnere,contemno, contempsi, contemptum	verachten, nicht beachten	
+miseria	die Not, das Unglück	
+desiderium	die Sehnsucht, das Verlangen (nach)	
+desiderium tui	die Sehnsucht nach dir	
+Latona	Latone (Göttin,m Mutter der Zwillinge Apollo und Diana)	
+colere,colo,colui,cultum	bewirtschaften, pflegen; verehren	
+agros colere	die Felder bewirtschaften	
+deos colere	die Götter verehren	
+ipse, ipsa, ispum	(er, sie, es) selbst; persönlich; gerade; sogar (hervorhebend)	
+Nioba	Niobe (Königin von Theben)	
+ara	der Altar	
+superi, superorum	die Götter	
+appellare, appello	anrufen; m. dopp. Akk. nennen	
+nominare, nomino	nennen	
+aestimare, aestimo	einschätzen, beurteilen; m. dopp. Akk. halten für	
+potens, potentis	mächtig, stark	
+parere,pario,peperi,partum	zur Welt bringen, gebären; schaffen	
+filium parere	einen Sohn zu Welt bringen	
+gloriam parere	(sich) Ruhm (ver)schaffen	
+nefarius	gottlos, verbrecherisch	
+vindicare,vindico	beanspruchen, bestrafen; (+in) m. Akk vorgehen gegen	
+omnia sibi vindicare	alles für sich beanspruchen	
+dolum vindicare	eine List bestrafen	
+in hostes vindicare	gegen die Feinde vorgehen	
+reddere,reddo,reddidi,redditum	zurückgeben, etwas zukommen lassen; m. dopp. Akk. jdn. zu etw. machen	
+Eurydica	Eurydike (Gattin des Orpheus)	
+Orpheus,Orphei	Orpheus (berühmter thrakischer Sänger)	
+nubere,nubo,nupsi,nuptum	heiraten (m. Dat.)	
+iuveni nubere	einen jungen Mann heiraten	
+coniunx,coniungis	der Gatte, die Gattin	
+non solum...sed etiam	nicht nur ..., sondern auch	
+commovere,commoveo,commovi,commotum	bewegen, veranlassen	
+aceribus	bitter, grausam, rücksichtslos	
+iubere,iubeo,iussi,iussum	anordnen, befehlen	
+servum laborare iubeo.	Ich befehle dem Sklaven zu arbeiten. Ich befehle, dass der Sklave arbeitet.	
+simul	gleichzeitig, zugleich	
+condicio, condicionis	die Bedingung, die Lage, die Verabredung	
+vetare,veto,vetui,vetitum	verbieten	
+te abire veto	Ich verbiete dir wegzugehen. Ich verbiete, dass du weggehst.	
+respicere,respicio,respexi,respectum	zurückblicken, berücksichtigen	
+reducere,reduceo,reduxi,reductum	zurückführen, zurückziehen	
+flectere, flecto, flexi, flexum	biegen, (hin)lenken, umstimmen	
+perdere,perdo,perdidi,perditum	verlieren,verschwenden, zugrunde richten	
+Sisyphus	Sisyphus (König von Korinth)	
+inferi, inferorum	die Bewohner der Unterwelt, die Unterwelt	
+fallere, fallo, fefelli	täuschen, betrügen	
+brevi, brevi(tempore)	nach kurzer Zeit, bald (darauf)	
+immo	im Gegenteil, ja sogar	
+regere,rego,rexi,rectum	beherschen, leiten, lenken	
+premere,premo,pressi,pressum	(unter)drücken, bedrängen	
+obsecrare,obsecro	anflehen, bitten	
+promittere,promitto,promisi,promissum	versprechen	
+fides,fidei	der Glaube, die Treue, das Vertrauen, die Zuverlässigkeit	
+fidem_servare	die Treue halten; sein Wort halten	
+effugere,effugo,effugi	entfliehen, entkommen	
+saxum	der Fels, der Stein	
+volvere,volvo,volvi,volutum	rollen, wälzen; überlegen	
+summus mons	der Berggipfel, die höchste Stelle des Berges	
+senex,senis	der Greis, der alte Mann	
+vestis, vestis	die Kleidung, Pl. die Kleider	
+neglegere,neglego,neglexi,neglectum	nicht (be)achten, vernachlässigen	
+iuvare, iuvo,iuvi	unterstützen, helfen; erfreuen	
+quaerere ex/de	jdn. fragen	
+e mercatore pretium quaerere	den Händler nach dem Preis fragen	
+providere,provideo,providi,provisum	m. Akk. vorhersehen; [m. Dat. sorgen für]	
+periculum providere	eine Gefahr vorhersehen	
+civibus providere	für die Bürger sorgen	
+praeesse,praesum,praefui	leiten, an der Spitze stehen	
+Imperator militibus praeest	Der Feldherr steht an der Spitze der Soldaten.	
+pro	vor; anstelle von, für	
+promo domo sedere	vor dem Haus sitzen	
+pro amico respondere	für den Freund antworten, anstelle des Freundes antworten	
+parcere,parco,peperci	schonen, verschonen	
+captivis parcere	die Kriegsgefangenen (ver)schonen	
+consulere,consulo,consului,consultum	(m. Akk. um Rat fragen);[m. Dat. sorgen für];{+in m. Akk. vorgehen gegen}	
+deos consulere	die Götter um Rat fragen	
+sociis consulere	für die Verbündeten sorgen	
+in hostes consulere	gegen die Feinde vorgehen	
+plebs, plebis	das (nicht adelige, einfache) Volk	
+persuadere,persuadeo,persuasi,persuasum	überreden, (m. Acl.) überzeugen	
+senatoribus persuadere	die Senatoren überzeugen	
+tribunus	der Tribun (führender Vertreter eines Stadtbezirks, einer Legion oder der Plebs)	
+curae esse	Sorgen bereiten	
+Coriolanus	Coriolan (röm. Patrizier)	
+num?	etwa? (im Hauptsatz)	
+deserere,desero,deserui,desertum	im Stich lassen, verlassen	
+auxilio venire	zu Hilfe kommen	
+crimini dare	zum Vorwurf machen	
+usus	der Nutzen, die Benutzung	
+usui esse	von Nutzen sein, nützlich sein	
+ponere,pono,posui,positum	(auf)stellen, (hin)legen, setzen	
+efficere,efficio,effeci,effectum	bewirken, herstellen	
+avertere,averto,averti,aversum	abwenden, vertreiben	
+perniciei esse	Verderben bringen	
+alere,alo,alui,altum	ernähren, großziehen	
+intra	innerhalb (von)	
+intra muros	innerhalb der Mauern	
+intra decem annos	innerhalb von zehn Jahren	
+discere,disco,didici	lernen, erfahren	
+frangere,frango,fregi,fractum	zerbrechen (trans.)	
+servus tabulam frangit	Der Sklave zerbricht die Schreibtafel	
+tabula frangitur	Die Schreibtafel wird zerbrochen. Die Schreibtafel zerbricht.	
+idem,eadem,idem	derselbe, der gleiche	
+arx, arcis	die Burg	
+desinere,desino,desii,desitum	aufhören	
+Camillus	Camilius (röm. Politiker und Feldherr, um 446-365 v. Chr.)	
+idem...qui	derselbe ... wie	
+Idem sentio quod tu.	Ich meine dasselbe wie du.	
+Eadem virtute pugnat qua hostis	Er kämpft mit der gleichen Tapferkeit wie der Feind.	
+Gallus	gallisch; Subst. der Gallier	
+vestigium	die Fußsohle, die Spur, die Stelle	
+silentium	das Schweigen	
+custos,custodis	der (die) Wächter(in)	
+sacer,sacra,sacrum	(jdm.) heilig, geweiht	
+haerere,haereo,haesi	hängen, stecken bleiben	
+exercitus	das Heer	
+proelium	der Kampf, die Schlacht	
+tot	so viele	
+agmen,agminis	der Heereszug	
+Poenus	punisch, karthagisch; Subst. der Punier, der Karthager	
+oratio,orationis	die Rede	
+iter,itineris	die Reise, der Marsch, der Weg	
+superesse,supersum,superfui	überleben, übrig sein	
+insidiae,insidiarum	die Falle, das Attentat, die Hinterlist	
+conficere,conficio,confeci,confectum	fertig machen, beenden	
+usque ad	bis (zu)	
+usque ad campum ire	bis zum Feld gehen	
+subire,subeo,subii	auf sich nehmen, herangehen	
+Alpes,Alpium	die Alpen	
+transire,transeo,transii,transitum	durchqueren, hinübergehen, überschreiten	
+expellere,expello,expuli,expulsum	vertreiben, verbannen	
+aut	oder	
+procedere,procedo,processo,processum	(vorwärts)gehen, vorrücken	
+Hamilcar,Hamilcaris	Hamilikar (Vater Hannibals)	
+Hannibal,Hannibalis	Hannibal (karthagischer Feldherr, 247-183 v. Chr.)	
+odium	der Hass	
+dexter,dextera,dexterum	rechts	
+dextera manus	die Rechte, die rechte Hand	
+trans	über (... hinaus), jenseits	
+trans montes	über die Berge, jenseits der Berge	
+apertus	offen, offenkundig	
+odio esse	verhasst sein	
+romani hannibali odio erant.	Die Römer waren Hannibal verhasst. Die Römer wurden von Hannibal gehasst.	
+iurare,iuro	schwören	
+immortalis	unsterblich	
+amicitia	die Freundschaft	
+addere,addo,addidi,additum	hinzufügen	
+cupere,cupio,cupivi,cupitum	wünschen, verlangen	
+luctus	die Trauer	
+postremo	schließlich	
+sui,suorum	die Seinen, die Ihren, seine (ihre) Leute	
+singulus	je ein, jeder einzelne	
+ut Subj. m. Konj.	dass, damit, so, dass, zu (m. Inf.)	
+orare,oro	(an)beten, bitten	
+ne	dass nicht, damit nicht	
+ne Subj. m. Konj.	(nach Ausdrücken des Fürchtens und Hindernis) dass	
+timere ne	fürchten, dass	
+periculum est ne	es besteht die Gefahr, dass	
+consul,consulis	der Konsul	
+postulare,postulo	fordern	
+ignotus	unbekannt	
+praeda	die Beute	
+argentum	das Silber, das Geld	
+victoria	der Sieg	
+eximius	außergewöhnlich, außerordentlich	
+Archimedes,Archimedis	Archimedes (griech. Mathematiker und Ingenieur, um 287-212 v. Chr.)	
+doctus	gelehrt, gebildet	
+cottidie	täglich	
+adversarius	feindlich; Subst. der Gegner, der Feind	
+radius	der Strahl, die (Rad-)Speiche	
+invadere,invado,invasi,invasum	eindringen, sich verbreiten, befallen	
+hortus	der Garten	
+avidus	(be)giereig (nach)	
+avidus pecuniae	gierig nach Geld, geldgierig	
+figura	die Figur, die Form, die Gestalt	
+quietus	ruhig, untätig	
+admonere,admoneo	ermahnen, auffordern, erinnern	
+ferox,ferocis	wild, trotzig	
+ensis	das Schwert	
+pergere,pergo,perrexi	aufbrechen; weitermachen	
+Pompei,Pompeiorum	Pompeji (Stadt in Mittelitalien)	
+circumdare,circumdo,circumdedi,circumdatum	umgeben	
+tradere,trado,tradidi,traditum	übergeben, überliefern	
+Pompeianus	pompejanisch; Subst. der Pompeianer	
+culuts	die Bildung, die Lebensweise, die Pflege, Verehrung	
+concordia	die Eintracht, die Einigkeit	
+Romae	in Rom (wo?)	
+iuventus	die Jugend	
+adversus	gegen	
+adversus consules	gegen die Konsuln	
+opprimere,opprimo,oppressi,oppressum	bedrohen, niederwerfen, unterdrücken	
+furor,furoris	der Wahnsinn, die Wut	
+convertere,converto,converti,conversum	verändern, (um)wenden	
+deponere,depono,deposui,depositum	niederlegen, aufgeben	
+restituere,restituo,restitui,restitutum	wiederherrstellen	
+frequens,frequentis	häufig, zahlreich	
+fama	der (gute/schlechte) Ruf, das Gerücht	
+auris	das Ohr	
+pervenire,pervenio,perveni,perventum	kommen zu / nach	
+ad forum pervenire	zum Forum kommen	
+falsus	falsch	
+iste,ista,istud	dieser, diese, dieses (da)	
+comperire,comperio,comperi,compertum	(genau) erfahren	
+invitus	ungern, gegen den Willen	
+sustinere,sustineo,sustinui	ertragen, standhalten	
+iniurias sustinere	die Beleidigung ertragen, den Beleidigungen standhalten	
+aeternus	ewig	
+impellere,impello,impuli,impulsum	antreiben, veranlassen	
+cum(Subj.m.Konj.)	als, nachdem, weil; obwohl; während (dagegen)	
+necesse (est)	(es ist) notwendig	
+occulte	heimlich, im Verborgenen	
+protinus	sofort	
+paulo	(um) ein wenig	
+ante(Adv.)	vorher	
+dimittere,dimitto,dimisi,dimissum	aufgeben, entlassen	
+ubi (primum)	sobald	
+metuere,metuo,metui	(sich) fürchten	
+ver,veris	der Frühling	
+saevus	schrecklich, wild, wütend	
+Philippus	Phillip ||. (König von Makedonien, Vater Alexander des Großen)	
+Macedones,Macedonum	die Makedonen	
+conspicere,conspicio,conspexi,conspectum	erblicken	
+convocare,convoco	zusammenrufen, versammeln	
+noscere,nosco,novi,notum	erkennen, kennenlernen	
+Alexander,Alexandri	Alexander der Große (König von Makedonien)	
+omnino	insgesamt, überhaupt, völlig	
+collocare,colloco	aufstellen, unterbringen	
+claudere,claudo,clausi,clausum	schließen, abschließen, einschließen	
+fiducia	das Vertrauen	
+fiducia sui	das Selbstvertrauen	
+ruere,ruo,rui	stürzen, eilen, stürmen	
+res gestae	die Taten	
+inter	unter, während, zwischen	
+decernere,decerno,decrevi,decretum	beschließen, entscheiden	
+conscribere,conscribo,conscripsi,conscriptum	aufschreiben, verfassen	
+copias conscribere	Truppen ausheben, rekrutieren	
+numen,numinis	die Gottheit, der göttliche Wille, die Macht	
+libellus	das kleine Buch, das Heft	
+cognoscere,cognosco,cognovi,cognitum	erkennen, kennenlernen; Perf. kennen, wissen	
+Te cognovi	Ich habe dich kennengelernt. Ich kenne dich.	
+maximus	der größte, sehr groß	
+cogere,cogo,coegi,coactum	(ver)sammeln; zwingen	
+nullo cogente	ohne Zwang	
+praesens,praesentis	anwesend, gegenwärtig	
+in praesenti	für den Augenblick	
+arbor,arboris	der Baum	
+verus	echt, richtig, wahr	
+patere mortuo	nach dem Tod des Vaters	
+Persae,Persarum	die Perser	
+patre vivo	zu Lebzeiten des Vaters	
+vivus	lebend, lebendig	
+legatus	der Gesandte, der Bevollmächtigte	
+nomine	namens, im Namen von	
+Alexandro duce	unter der Führung Alexanders	
+ignoscere,ignosco,ignovi,ignotum	verzeihen	
+pons,pontis	die Brücke	
+philipo rege	unter der Regierung Phillips	
+barbarus	ausländisch, unzivilisiert; Subst. der Barbar, der Fremde	
+munus,muneris	die Aufgabe; das Geschenk	
+munera mittere	Geschenke schicken	
+liber ab omni munere	frei von jeder Aufgabe (Verpflichtung)	
+populo praesente	in Anwesenheit des Volkes	
+me auctore	auf meine Veranlassung	
+hoste invito	gegen den Willen des Feindes	
+nuper	neulich, vor kurzem	
+censere,censeo,censui,censum	meinen; einschätzen; seine Stimme abgeben (für)	
+linguam nostram pulchram	Ich meine, dass unsere Sprache schön ist.	
+senatores pacem censent	Die Senatoren stimmen für den Frieden	
+subigere,subigo,subegi,subactum	unterwerfen, bezwingen	
+cella	die Kammer	
+currus	der Wagen	
+custodire,custodio	bewachen, im Auge behalten	
+iugum	der Berg, der Bergrücken; das Joch	
+quondam	einmal, einst; manchmal	
+oraculum	das Orakel, die Orakelstätte, der Orakelspruch	
+edere,edo,edidi,editum	herausgeben, bekannt machen, veranstalten	
+libros edere	Bücher herausgeben	
+difficilis	schwer, schwierig	
+cupidus	(be)giereig (nach)	
+cupidus pecuniae	gierig nach Geld, geldgierig	
+regnum	die (Königs-)Herrschaft, das Reich	
+observare,observo	beobachten	
+inquam	sag(t)e ich	
+rumpere,rumpo,rupi,ruptum	zerbrechen	
+aut...aut	entweder ... oder	
+aliquis,aliquid	(irgend)jemand	
+motus	die Bewegung	
+sidus,sideris	der Stern, das Sternbild	
+cursus	der Lauf	
+imprimis	besonders, vor allem	
+aliqui,aliqua,aliquod	(irgend)ein	
+opinio,opinionis	die Meinung, der (gute) Ruf	
+obscurus	dunkel, unbekannt	
+divinus	göttlich	
+constare,consto,constiti	bestehen aus	
+oratio e compluribus partibus constat.	Eine Rede besteht aus mehreren Teilen.	
+casus	der Fall, der Zufall	
+casus civitatis	der Untergang des Staates	
+casu venire	zufällig kommen	
+Croesus	Krösus (König von Lydien)	
+sapere,sapio,sapivi	Verstand haben, Geschmack haben	
+sacrificium	das Opfer	
+ops,opis	die Hilfe, die Kraft; Pl. die Macht, die Mittel, der Reichtum	
+opem petere	um Hilfe bitten	
+fatum	das Schicksal, der Götterspruch	
+cupiditas,cupiditatis	das (heftige) Verlangen (nach), die Leidenschaft	
+cupiditas gloriae	das Verlangen nach Ruhm	
+humanus	menschlich; gebildet	
+vates,vatis	der/die Seher(in), der/die Dichter(in), der/die Sänger(in)	
+brevis,breve	kurz	
+brevi tempore	nach kurzer Zeit, bald (darauf)	
+mi fili	mein Sohn	
+aio,ait,aiunt	behaupte(te) ich, sag(t)e ich	
+versus	der Vers	
+componere,compono,composui,compositum	abfassen, ornden, schlichten; vergleichen	
+poeta,petae	der Dichter	
+regius	königlich	
+domus regia	das königliche Haus, der (Königs-)Palast	
+testis	der Zeuge, die Zeugin	
+recipere,recipio,recepi,receptum	zurücknehemen, aufnehmen, wiederbekommen	
+salutem dicere	(jdn.)grüßen, begrüßen	
+gaudium	die Freude	
+epistula	der Brief	
+contingere,contingo,contigi,contactum	berühren, gelingen	
+spectaculum	das Schauspiel	
+initium	der Anfang, der Eingang	
+demum	englich, erst	
+prior,prius	der erste, der frühere, der vordere	
+solacium	der Trost, das Trostmittel	
+solacio esse	Trost bringen	
+una	zugleich, zusammen	
+perficere,perficio,perfeci,perfectum	erreichen, fertigstellen, vollenden	
+clades,cladis	die Niederlage, das Unglück, das Unheil	
+diutius	länger	
+cernere,cerno	sehen, bemerken	
+maior,maius	größer	
+multo	(um) viel	
+multo magis	(um) viel mehr	
+plus,pluris	mehr	
+longus	lang, weit	
+plurimi	die meisten, sehr viele	
+aedis	der Tempel, Pl. das Haus	
+extra	außerhalb (von)	
+minimus	der kleinste, der geringste	
+optimus	der beste, sehr gut	
+artifex,artificis	der/die Künstler(in)	
+minor,minus	kleiner, geringer	
+comparare,comparo	vergleichen	
+aurum	das Gold	
+melior,melius	besser	
+opus,operis	die Arbeit, das Werk	
+pessimus	der schlechteste, der schlimmste	
+peior,peius	schlechter, schlimmer	
+ferre,fero,tuli,latum	bringen, tragen; ertragen	
+perferre,perfero,pertuli,perlatum	(über)bringen, ertragen	
+inferre,infero,intuli,illatum	hineintragen, zufügen	
+terror,terroris	die Angst, der Schrecken	
+conferre,confero,contuli,collatum	vergleichen, zusammentragen	
+se conferre	sich (wohin) begeben	
+affere,affero,attuli,allatum	bringen, herbeibringen, mitbringen; melden	
+auferre,aufero,abstuli,ablatum	wegbringen, rauben	
+offere,offero,obtuli,oblatum	anbieten, entgegenbringen	
+differre,differo,distuli,dilatum	aufschieben; sich unterscheiden (von)	
+negotium differre	die Angelegenheiten aufschieben	
+a fratre differre	sich vom Bruder unterscheiden	
+referre,refero,rettuli,relatum	(zurück)bringen, berichten	
+deferre,defero,detuli,delatum	hinbringen, melden, übertragen	
+superbia	der Stolz, die Überheblichkeit	
+asper,aspera,asperum	rau; streng	
+laus,laudis	das Lob, der Ruhm	
+effere,effero,extuli,elatum	herausheben, hervorbringen	
+verbis efferre	mit Worten hervorheben, rühmen	
+Creon,Creonis	Kreon (König von Theben)	
+impius	gottlos, gewissenlos	
+praesidium	der (Wach-)Posten, die Schutztruppen	
+Antigona	Antigone (Tochter des Ödipus)	
+iustus	gerecht	
+quisnam	wer denn?	
+prohibere ne	daran hindern, dass	
+imponere,impono,imposiu,impositum	auferlegen, einsetzen	
+civibus legem imponere	den Bürgern ein Gesetz auflegen	
+peccare,pecco	sündigen, einen Fehler machen	
+cavere,caveo,cavi,cautum	sich hüten (vor), Vorsorge treffen	
+cave iram!	hüte dich vor Zorn!	
+Cave (ne) cadas!	Hüte dich zu fallen!	
+durus,dura,durum	hart, harthertzig	
+sententia	die Meinung, der Satz, der Sinn, der Antrag (im Senat)	
+patrius,patria,patrium	heimisch, väterlich	
+causa	wegen	
+gloriae causa	wegen des Ruhms	
+adulescens,adulescentis	jung; Subst. der junge Mann	
+incredibilis,incredibile	unglaublich	
+canis	der Hund	
+ferus,fera,ferum	wild	
+ius,iuris	das Recht	
+committere,committo,commisi,commissum	anvertrauen; veranstalten; zustande bringen	
+scelus committere	ein Verbrechen begehen	
+proelium committere	eine Schlacht liefern, kämpfen	
+iungere,iungo,iunxi,iunctum	verbinden, vereinigen	
+dos,dotis	die Mitgift	
+indignus,indigna,indignum	unwürdig (einer Sache)	
+honore indignus	der Ehre unwürdig	
+sermo,sermonis	das Gespräch, die Sprache, das Gerede	
+pudet,puduit	es beschämt (jdn.)	
+pudet me flere.	Es beschämt mich zu weinen. Ich schäme mich zu weinen.	
+pudet me huius sceleris	Ich schäme mich wegen dieses Verbrechens.	
+custodia	das Gefängnis, die Haft, die Wache	
+solus,sola,solum	allein, einzig	
+attingere,attingo,attigi,attactum	berühren	
+dignitas,dignitatis	das Ansehen, die Würde; die (gesellschaftliche) Stellung	
+nex,necis	der Mord, der (gewaltsame) Tod	
+perturbare,perturbo	in Verwirring bringen	
+ideo	deshalb	
+perniciosus,perniciosa,perniciosum	gefährlich, schädlich	
+improbus,improba,improbum	schlecht, unanständig	
+celare,celo	verheimlichen, verbergen (vor jdm.)	
+milites periculum celare	vor den Soldaten die Gefahr verbergen	
+animadvertere in	vorgehen gegen	
+animadvertere in senatum	gegen den Senat vorgehen	
+desistere,desisto,destiti	aufhören (mit)	
+itinere desistere	den Marsch beenden	
+palam	bekannt, in aller Öffentlichkeit	
+favere,faveo,favi,fautum	bevorzugen, begünstigen, gewogen sein	
+dei tibi faveant!	Die Götter mögen dir gewogen sein!	
+vino dulci faveo.	Ich bevorzuge süßen Wein.	
+evenire,evenio,eveni,eventum	sich ereigenen	
+evenit ut	es ereignet sich, dass	
+finire,finio	beenden, begrenzen	
+militaris,militare	militärisch	
+Germanus,Germana,Germanum	germanisch; Subst. der Germane	
+egregius,egregia,egregium	ausgezeichnet, hervorragend	
+extremus,extrema,extremum	der äußerste, der letzte	
+Germania	Germanien	
+vexare,vexo	quälen, misshandeln, schädigen	
+finitimus,finita,finitum	angrenzen, benachbart; Subst. der/die Nachbar(in), der/die Grenznachbar(in)	
+lacessere,lacesso,lacessivi,lacessitum	herausfordern, reizen	
+Oceanus	der Ozean, das Weltmeer	
+impedire ne	(ver)hindern, dass	
+fuga salutem petere	in der Flucht die Rettung aufsuchen	
+apppropinquare,appropinquo	sich nähern	
+lego,legionis	die Legion	
+triumphus	der Triumph, der Triumphzug	
+utinam	hoffentlich, wenn doch	
+Utinam venia!	Hoffentlich kommst du!	
+Utinam venisses!	Wenn du doch gekommen wärest!	
+Cicero,Ciceronis	Cicero (röm. Redner, Schriftsteller und Politiker, 106-43 v. Chr.)	
+potius	eher, lieber	
+voluptas,voluptatis	die Lust, das Vergnügen	
+optare,opto	wünschen	
+levis,leve	leicht, leichtsinnig, gering	
+facile	leicht	
+vitium	der Fehler, die schlechte Eigenschaft	
+modo...modo	manchmal ... manchmal	
+diligere,diligo,dilexi,dilectum	hochachten, lieben	
+more philosophi	nach Art des Philosophen	
+philosophus	der Philosoph	
+humanitas,humanitatis	die Menschlichkeit, die Menschenfreundlichkeit; die Bildung	
+maiores,maiorum	die Vorfahren	
+corrumpere,corrumpo,corrupi,corruptum	bestechen, verderben	
+iudicem corrumpere	den Richter bestechen	
+iuventum corrumpere	die Jugend verderben	
+Caesar,Caesaris	Gaius Julius Caesar (röm. Politiker, Feldherr und Schriftsteller, 100-44 v. Chr.)	
+officium praestare	seine Pflicht erfüllen	
+nobilis,nobile	adelig, berühmt, vornehm	
+qui	wie	
+legatio,legationis	die Gesandtschaft	
+spatium	der Raum, die Strecke, die Zeit, der Zeitraum	
+illic	dort	
+memor,memoris	in Erinnerung an	
+memor periculi sum.	Ich erinnere mich an die Gefahr. Ich denke an die Gefahr	
+afficere,afficio,affeci,affectum	versehen mit etw.	
+poena afficere	bestrafen	
+supplicio afficere	hinrichten lassen	
+permittere,permitto,permisi,permissum	erlauben, überlassen	
+restare,resto,restiti	übrig bleiben; Widerstand leisten	
+hoc dicere restat	Das bleibt (noch) zu sagen übrig.	
+milite hostibus fortiter restituerunt.	Die Soldaten leisteten den Feinden tapfer Widerstand.	
+Romam	nach Rom (wohin?)	
+colligere,colligo,collegi,collectum	sammeln	
+Atticus	Attictus (Freund und Verleger Ciceros)	
+familiaris,familiare	freundschaftlich, vertraut; Subst. der Freund	
+accedere,accedo,accessi,accessum	herbeikommen, hinzukommen	
+ad rem publicam accedere	sich politisch betätigen	
+conservare,conservo	retten, bewahren	
+tunc	damals, dann	
+statis	genug	
+ceterum	übrigens, im Übrigen	
+post	dann, später	
+Cleopatra	Kleopatra VII. (letzte Königin Ägyptens von 51-30 v. Chr.)	
+otium	die freie Zeit, die Ruhe (von berufl. Tätigkeiten); der Frieden	
+convivium	das Gastmahl, das Gelage	
+quotiens	wie oft, sooft	
+quotiens venis gaudeo	Sooft du kommst, freue ich mich	
+coniuratio,coniurationis	die Verschwörung	
+Marcus Antonius	Marcus Antonius (röm. Politiker und Feldherr, um 85-30 v. Chr.)	
+sodalis	der Freund	
+taberna	der Laden, das Wirtshaus	
+nocturnus,nocturna,nocturnum	nächtlich	
+noctu	nachts	
+declarare,declaro	deutlich machen, verkünden	
+discrimen,discriminis	die Entscheidung, die Gefahr; der Unterschied	
+in discrimine esse	zur Entscheidung stehen	
+in summo discrimine esse	in höchster Gefahr sein	
+discrimen inter bonos et malos	der Unterschied zwischen Guten und Schlechten	
+haud	nicht	
+infandus,infanda,infandum	abscheulich, unsagbar	
+identidem	immer wider, wiederholt	
+impune	ungestraft, ohne Schaden	
+miscere,misceo,miscui,mixtum	mischen, verwirren, durcheinanderbringen	
+furere,furo	toben, wüten, rasen	
+istic	da, dort	
+ars,artis	die Kunst, die Fertigkeit, die Eigenschaft	
+aditus	der Zugang, der Eingang	
+pietas,pietatis	das Pflichtgefühl, die Frömmigkeit	
+membrum	das Glied, der (Körper-)Teil	
+membra corporis	die Glieder des Körpers	
+membra orationis	die Teile einer Rede	
+plurimum	am meisten, sehr viel	
+quam celerrime	möglichst schnell	
+preaterea	außerdem	
+visere,viso,visi,visum	besichtigen, besuchen	
+princeps,principis	der Erste, der führende Mann; der Kaiser	
+occurrer,occurro,occurri	begegnen, entgegentreten	
+prehendere,prehendo,prehendi,prehensum	ergreifen, nehmen	
+manum amici prehendere	die Hand des Freundes ergreifen	
+possidere,possideo,possedi,possessum	besitzen	
+illuc	dahin, dorthin	
+Maecenas,Maecenatis	Maecenas (Förderer der Künste zur Zeit des Augustus)	
+Horatius	Horaz (röm. Dichter, 65-8 v. Chr.)	
+occupatus,occupata,occupatum	beschäftigt (mit)	
+consules in negotiis occupati sunt.	Die Konsuln sind mit ihren Aufgaben beschäftigt	
+iucundus,iucunda,iucundum	angenehm, freundlich	
+raro	selten	
+divus,diva,divum	göttlich	
+nec...nec	weder ... noch	
+se recipere	sich zurückziehen	
+copiae in castra se receperunt.	Die Truppen haben sich ins Lager zurückgezogen.	
+gratus,grata,gratum	dankbar, willkommen, beliebt	
+domum gratum	ein willkommenes Geschenk	
+homo gratus	ein beliebter Mensch	
+Vergilius	Vergil (röm. Dichter, 70-19 v. Chr.)	
+saeculum	das Jahrhundert, das Menschenalter, die Zeit, das Zeitalter	
+invidia	der Neid	
+pecus,pecoris	das Vieh, das Tier	
+dictum	der Ausspruch, das Wort	
+Epicurus	Epikur (griech. Philosoph, um 341-270 v. Chr.)	
+carpere,carpo,carpsi,carptum	pflücken, genießen; nutzen	
+carpe diem!	Genieße den Tag! Nutze den Tag (die Zeit)!	
+memorare,memoro	erwähnen, sagen	
+suspicari,suspicor,suspicatus sum	vermuten	
+arbitrari,arbitror,arbitratus sum	glauben, meinen	
+precari,precor,precatus sum	bitten	
+morari,moror,moratus sum	(sich) aufhalten	
+vero	aber, in der Tat, wirklich	
+fateri,fateor,fassus sum	bekennen, gestehen	
+procul,procul a	von fern, weit weg, [fern von]	
+tueri,tueor	betrachten, schützen, (milit.)sichern	
+naturam tueri	die Natur betrachten	
+fines tueri	die Grenzen (das Gebiet) sichern	
+polliceri,polliceor,pollicitus sum	versprechen	
+reri,reor,ratus sum	meinen	
+vereri,vereor,veritus sum	fürchten, sich scheuen; verehren	
+periculum verior.	Ich fürchte die Gefahr.	
+deos vereor.	Ich verehre die Götter.	
+iam pridem	schon lange	
+magnificus,magnifica,magnificum	großartig, prächtig	
+age!	los!, auf!, nun, also	
+prodesse,prosum,profui	nützen	
+grandis,grande	alt; bedeutend, groß	
+Aegyptus	Ägypten	
+id studere ut	danach streben, dass	
+venustus,venusta,venustum	schön, charmant, liebenswürdig	
+aes,aeris	das Erz, das Geld	
+perennis,perenne	dauernd, beständig	
+tempestas,tempestatis	der Sturm, das (schlechte) Wetter; die Zeit	
+qui,quae,quod	welcher, welche, welches	
+Gallia	Gallien (heute Oberitalien, Frankreich und Belgien)	
+quidnam?	was denn?	
+intellegere,intellego,intellexi,intellectum	(be)merken, verstehen	
+quare?	weshalb? wodurch?	
+orbis	der Kreis, der Kreislauf, der Erdkreis, die Welt	
+corripere,corripio,corripui,correptum	ergreifen, gewaltsam an sich reißen	
+alienus,aliena,alienum	fremd	
+usque	ständig, fortwährend	
+commodum	die Bequemlichkeit, der Vorteil	
+obtinere,obtineo	(in Besitz) haben, (besetzt) halten	
+-ne...an	...oder	
+utrum...an	...oder	
+mens,mentis	der Geist, der Sinn, der Verstand; die Meinung	
+prodere,prodo,prodidi,proditum	verraten, überliefern	
+quiescere,quiesco,quievi,quietum	(aus)ruhen, schlafen	
+vires,virium	die Kräfte; die Streitkräfte	
+deficere,deficio,defeci,defectum	abnehmen, ermatten, abfallen (von)	
+proinde	also, daher	
+exstinguere,exstinguo,extinxi,exstinctum	auslöschen, vernichten	
+quamvis	wenn auch, obwohl	
+sponte mea (tua,sua)	freiwillig, von selbst	
+amico praestare	den Freund übertreffen	
+posteri,posterorum	die Nachkommen	
+item	ebenso, gleichfalls	
+non dubito,quin	Ich zweifle nicht (daran), dass	
+rus,ruris	das Feld, das Land (im Gegensatz zur Stadt), das Landgut	
+ruri	auf dem Land	
+utilis,utile	nützlich	
+prope	nahe bei, in der Nähe von	
+locare,loco	aufstellen, setzen; vermieten	
+moenia locare	Stadtmauern errichten	
+domum locare	ein haus vermieten	
+abesse,absum,afui	entfernt sein, abwesend sein, fehlen	
+ab urbe abesse	von der Stadt entfernt sein	
+multa mihi absunt.	Mir fehlt viel(es).	
+non multum abest,quin	es fehlt nicht viel, dass	
+quasi	gleichsam	
+monstrum quasi	gleichsam ein Ungeheuer	
+poscere,posco,poposci	fordern, verlangen	
+nihil...nisi	nichts ... außer, nichts (anderes) ... als, nur	
+nihil aliud nisi veniam a te peto	Ich verlange nichts (anderes) als Nachsicht von dir. Ich verlange nur Nachsicht von dir	
+quoniam	da ja, da nun	
+magistratus,magistratus	das Amt, der Beamte	
+emere,emo,emi,emptum	kaufen	
+incertus,incerta,incertum	ungewiss, unsicher	
+num (im Gliedsatz)	ob, ob nicht	
+aes alienum	die Schulden	
+exigere,exigo,exegi,exactum	(ein)fordern, vollenden	
+munitio,munitionis	der Bau, der Befestigung	
+inde	von dort; darauf; deshalb	
+-ne (im Gliedsatz)	ob	
+utrum...an	ob ... oder	
+basilica	Markthalle, Gerichtshalle	
+ad	zu, bei, nach, an	
+ad basilicam esse	bei der Markthalle sein	
+ad basilicam properare	zu der Markthalle eilen	
+ante	vor	
+ante villam; ante cenam	vor dem Landhaus; nach dem Essen	
+umbra	Schatten	
+post	hinter, nach	
+post villam; post cenam	hinter dem Landhaus, nach dem Essen	
+ornamentum	Schmuck(stück)	
+cum	mit, zusammen mit	
+cum amico	mit dem Freund	
+pretium	Preis, Wert	
+probare,probo	prüfe, beweisen, für gut befinden	
+indicare,indico	anzeigen, melden	
+sine	ohne	
+sine amico	ohne den Freund	
+e,ex	aus, von ... her	
+e patria	aus der Heimat	
+ex aedifico	aus dem Gebäude	
+in	in, an, auf, bei (wo?) [Präp. m. Abl]	
+in aqua	im Wasser	
+manere,maneo,mansi	bleiben, (er)warten	
+in	in (... hinein), nach (wohin?); gegen [Präp. m. Akk.]	
+in aquam	ins Wasser	
+ego	ich (betont)	
+tu	du (betont)	
+-ne	Partikel im dir. Fragesatz (unübersetzt)	
+Videsne_aedificum?	Siehst du das Gebäude?	
+vos	ihr (betont)	
+mihi	mir	
+me	mich	
+tecum	mit dir	
+nos	wir (betont)	
+vobiscum	mit euch	
+nos	uns	
+tibi	dir	
+nobis	uns	
+vobis,vos	euch	
+clamare,clamo	laufen, rufen, schreien	
+errare, erro	umherirren, (sich) irren	
+invenire,invenio,inveni,inventum	finden, erfinden	
+te	dich	
+sine me	ohne mich	
+avunculus	der Onkel	
+incolumis,incolume	unverletzt wohlbehalten	
+permovere,permoveo,permovi,permotum	beunruhigen; veranlassen	
+quisque,quidque	jeder	
+ultimus,ultima,ultimum	der äußerste, der entfernteste, der letzte	
+aequus,aequa,aequum	eben, gleich, gerecht	
+iudex aequus	ein gerechter Richter	
+animus aequus	die Ausgeglichenen; die Gelassenheit	
+discedere,discedo,discessi,discessum	auseinandergehen, weggehen	
+optimus quisque	gerade die Besten	
+optimus quisque hoc dicit	Gerade die besten sagen das.	
+quisque,quaeque,quodque	jeder	
+praeter	außer	
+proximus,proxima,proximum	der nächste, der letzte	
+malum	das Übel	
+furtum	der Diebstahl, die Hinterlist	
+furtum committere	einen Diebstahl begehen	
+pudor,pudoris	die Scham, das Schamgefühl, der Anstand	
+inopia	der Mangel, die Not	
+quoquo modo	auf jede erdenkliche Weise	
+Hercule!	Beim Herkules!	
+incedere,incedo,incessi,incessum	heranrücken, eintreten; (jdn.) befallen	
+magna cura incessit.	Große Sorgen kam auf (trat ein).	
+metus me incedit.	Furcht befällt mich.	
+oppugnare,oppugno	angreifen	
+placare,placo	beruhigen, versöhnen	
+ignorare,ignoro	nicht kennen, nicht wissen	
+non ignorare	gut kennen, gut wissen	
+fingere,fingo,finxi,fictum	gestalten, sich (etw.) ausdenken	
+statuam fingere	eine Statue gestalten (erschaffen)	
+causas fingere	sich Gründe ausdenken	
+imago,imaginis	das Bild, das Abbild	
+ubique	überall	
+namque	denn, nämlich	
+ratio,rationis	der Grund, die Vernunft, die Überlegung; die Art und Weise; die Berechnung	
+nulla ratione	ohne jeden Grund	
+eadem ratione	auf dieselbe Weise	
+ratione agere	mit Vernunft (vernünftig) handeln	
+pingere,pingo,pinxi,pictum	zeichnen, malen	
+velut	wie, wie zum Beispiel	
+similis,simile	ähnlich	
+filius similis est patris	Der Sohn ist dem Vater ähnlich	
+veri similis	wahrscheinlich	
+cras	morgen	
+loqui,loquor,locutus sum	reden, sprechen	
+experiri,experior,expertus sum	erfahren, versuchen	
+propinquus,propinqua,propinquum	nahe; Subst. der Verwandte	
+sequi,sequor,secutus sum	folgen	
+amicum sequi	dem Freund folgen	
+coniungere,coniungo,coniunxi,coniunctum	verbinden, vereinigen	
+sensus	das Gefühl, der Sinn, der Verstand	
+queri,queror,questus sum	klagen, sich beklagen (über)	
+Socrates,Socratis	Sokrates (griech. Philosoph 469-399 v. Chr.)	
+pati,patior,passus sum	(er)leiden, ertragen, zulassen	
+dolores patior	Ich erleide (ertrage) Schmerzen	
+hoc numquam patiar	Das werde ich niemals zulassen	
+causam agere	einen Prozess führen	
+moliri,molior,molitus sum	(an)treiben; planen, unternehmen	
+se dare	sich widmen, sich hingeben	
+otio me do.	Ich widme mich der Ruhe.	
+fere	fast, beinahe; ungefähr	
+iustitia	die Gerechtigkeit	
+consequi,consequor,consecutus sum	erreichen, nachfolgen	
+aggredi,aggredior,aggressus sum	angreifen, herangeben	
+sumere,sumo,sumpsi,sumptum	nehmen	
+paulum	ein wenig	
+versari,versor,versatus sum	sich aufhalten, sich befinden, sich beschäftigen	
+in re publica versari	politisch tätig sein	
+colloqui,colloquor,collocutus sum	sich unterhalten; verhandeln, besprechen	
+anima	der Atem, das Leben, die Seele	
+demittere,demitto,demisi,demissum	hinabschicken, sinken, lassen	
+flumen,fluminis	der Fluss	
+iudicare,iudico	urteilen, beurteilen	
+mirari,miror,miratus sum	bewundern, sich wundern	
+opiniari,opinor,opiniatus sum	glauben, meinen	
+atomus	das Atom	
+oriri,orior,ortus sum	entstehen, sich erheben	
+sol oritur	Die Sonne geht auf	
+bellum oritur	Ein Krieg bricht aus.	
+vereri,ne	fürchten, dass	
+hortari,hortor,hortatus sum	auffordern, ermahnen	
+adicere,adicio,adieci,adiectum	hinzufügen	
+conari,conor,conatus sum	versuchen	
+mori,morior,mortuus sum	sterben	
+intueri,intueor	anschauen	
+spiritus	der Atem, die Seele	
+proficisci,proficiscor,profectus sum	(ab)reisen, aufbrechen	
+antiquitas,antiquitatis	die alte Zeit, die Menschen, der alten Zeit, die alten Sagen	
+flumen,fluminis	der Blitz	
+nubes,nubis	die Wolke	
+intendere,intendo,intendi	streben (nach), beabsichtigen	
+supera	oberhalb, oben über	
+perpetuus,perpetua,perpetuum	dauerhaft, ewig	
+in perpetuum	für immer	
+perpetuo	unterbrochen	
+exponere,expono,exposui	darlegen, schildern	
+vanus,vana,vanum	grundlos, unbegründet	
+naturalis,naturale	natürlich, angeboren, naturgemäß	
+horrere,horreo	zurückschaudern (vor)	
+timore horrere	vor Furcht erschaudern (zittern)	
+crimen horrere	vor dem Verbrechen zurückschaudern	
+durare,duro	(ab)härten, stählen	
+firmus,firma,firmum	stark, kräftig	
+infans,infantis	das Baby	
+rectus,recta,rectus	gerade, recht, richtig	
+bonum	das Gute	
+os,ossis	der Knochen	
+integere,integra,integrum	unversehrt, unverletzt	
+opera	die Arbeit, die Mühe	
+imitari,imitor,imitatus sum	nachamen	
+persequi,persequor,persectus sum	verfolgen, erstreben	
+nasci,nascor,natus sum	entstehen, geboren werden	
+antiquo genere natus est.	Er stammt aus einem alten Geschlecht.	
+contentus,contenta,contentum	zufrieden	
+intervallum	der Zwischenraum, die Entfernung	
+par,paris	gleich, ebenbürtig	
+privatus,privata,privatum	persönlich, privat; Subst. die Privatperson	
+praecipere,praecipio,praecepi,praeceptum	(be)lehren, vorschreiben	
+uti,utor,usus sum	benutzen, gebrauchen	
+dolo utor	Ich wende eine List an.	
+ultro	freiwillig, noch dazu	
+publicus,publica,publicum	öffentlich, stattlich	
+plerique,pleraeque,pleraque	die meisten, sehr viele	
+exemplum	das Beispiel, das Vorbild	
+voluptatem capere e/ex	Freude haben an	
+ullus,ulla,ullum	irgendein	
+progredi,progredior,progressus sum	vorrücken, weitergehen	
+manifestus,manifesta,manifestum	offenkundig; überführt	
+quantus,quanta,quantum	wie groß, wie viel	
+ingredi,ingredior,ingressus sum	betreten, beginnen	
+ambitio,ambitionis	der Ehrgeiz	
+scilicet	freilich, natürlich	
+videri,videor,visus sum	schein, gelten (als)	
+instruere,instruo,instruxi,instructum	aufstellen, ausrüsten; unterrichten	
+confiteri,confiteor,confessus sum	(ein)gestehen	
+consuescere,consuesco,consuevi,consuetum	sich daran gewöhnen	
+equus parere consuescit	Das Pferd gewöhnt sich daran zu gehorchen	
+remittere,remitto,remisi,remissum	zurückschicken; nachlassen, vermindern	
+status	der Stand, die Lage; Pl. die Umstände	
+actio,actionis	Die Tätigkeit; die Gerichtsverhandlung; die Rede	
+onus,oneris	die Last	
+suscipere,suscipio,cuscepi,susceptum	auf sich nehmen, sich (einer Sache) annehmen, unternehmen	
+idem ac/atque	derselbe wie	
+idem dicitis ac amici.	Ihr sagt dasselbe wie die Freunde	
+cor,cordis	das Herz	
+cordi esse	am Herzen liegen	
+agitare,agito	betreiben; überlegen	
+adoptare,adopto	adoptieren	
+potentia	die Macht	
+instituere,instituo,institui,institutum	beginnen, einrichten, unterrichten	
+prospicere,prospicio,prospexi,prospectum	achtgeben, dafür sorgen, (vorher)sehen	
+mortem prospicere	den Tod vorhersehen	
+saluti patris prospicere	für das Wohl des Vaters sorgen	
+pater familias	der Hausherr das Familienoberhaupt	
+iniustus,iniusta,iniustum	ungerecht	
+ordo,ordinis	die Ordnung, die Reihe, der Stand	
+ordo senatorum	der Senatorenstand	
+eiusdem ordinis	von gleichem Rang (Stand)	
+nobilitas,nobilitatis	der Adel, die vornehme Abstammung	
+aetas,aetatis	das Lebensalter, die Zeit, das Zeitalter	
+-ve	oder	
+subicere,subicio,subieci,subiectum	darunterlegen; unterwerfen	
+parcere hostibus subiectis	die unterworfenen Feinde schonen	
+res familiaris	das (Privat)-Vermögen, der Besitz	
+eripere,eripio,eripui,ereptum	entreißen	
+eicere,eicio,eieci,eiectum	hinauswerfen, vertreiben	
+reliquus,reliqua,reliquum	übrig, künftig	
+pluris esse	teurer sein	
+neque vero	aber nicht	
+prudentia	die Klugheit, die Kenntnis, die Vorsicht	
+admittere,admitto,admisi,admissum	hinzuziehen, zulassen	
+interest	es ist wichtig (für jdn.)	
+mea interest	es ist wichtig für mich	
+nimis,nimium	(all)zu, (all)zu sehr	
+nimium libertatis	zu viel Freiheit	
+interesse,intersum,interfui	dazwischen sein; teilnehmen (an)	
+iudicium	das Gericht, das Urteil	
+punire,punio	bestrafen	
+tametsi	obwohl, wenn auch	
+quicumque,quaecumque,quodcumque	jeder, der; wer auch immer	
+licentia	die Freiheit, die Willkür	
+accendere,accendo,accendi,accensum	anfeuern, anzünden	
+ira accensus	zornentbrannt, zornerfüllt	
+nimius,nimia,nimium	übermäßig, zu groß	
+ardere,ardeo,arsi,arsurum	brennen	
+quisquis,quidquid	jeder, der; wer auch immer	
+quippe	freilich, zumal	
+parum	(zu)wenig	
+quaesere,quaeso	bitten	
+rarus,rara,rarum	selten, vereinzelt	
+hiems,hiemis	der Winter, das Unwetter	
+vehere,veho,vexi,vectum	fahren, tragen, ziehen	
+frumentum veho.	Ich fahre (transportiere) Getreide.	
+aequor,aequoris	die Ebene, die Fläche, das Meer	
+vehi,vehor,vectus sum	sich fortbewegen, fahren	
+in nave vehor	Ich fahre mir (auf) dem Schiff	
+prius	früher, zuerst	
+suspicio,suspicionis	der Verdacht, die Vermutung	
+repente	plötzlich, unerwartet	
+adventus	die Ankunft	
+duplex,duplicis	doppelt	
+fluctus	die Flut, die Strömung	
+ripa	das Ufer	
+culpa	die Schuld	
+avaritia	der Geiz die Habsucht	
+minus	weniger	
+amplus,ampla,amplum	bedeutend, groß, weit	
+fieri,fio,factus sum	gemacht werden; geschehen, werden, entstehen	
+sumptus	der Aufwand, die Kosten	
+modo	eben (noch); nur	
+ignarus,ignara,ignarum	ohne Kenntnis, unwissend	
+ignarus periculorum	ohne Kenntnis der Gefahren	
+collum	der Hals	
+medicus	der Arzt	
+irasci,irascor	in Zorn geraten, zornig sein (gegen / über)	
+alter,altera,alterum	der eine / der andere (von zweien)	
+an (im indr. Fragesatz)	ob nicht (nach Ausdrückens des Nichtwissens und Zweifelns)	
+nescio, an nuntius venerit	Ich weiß nicht, ob nicht eine Nachricht gekommen ist	
+ob	wegen; für; gegen (über)	
+quam ob rem	weshalb; deshalb	
+infestus,infesta,infestum	feindlich, feindselig	
+repetere,repeto,repetivi,repetitum	(zurück)verlangen, wiederholen	
+uterque,utraque,utrumque	beide, jeder (von zweien)	
+uterque consul adest.	Beide Konsuln sind anwesend	
+sinister,sinistra,sinistrum	links; trügerisch; hinterhältig	
+impetrare,impetro	erreichen, durchsetzen	
+proponere,propono,proposui,propositum	darlegen, in Aussicht stellen	
+Iudaeus,Iudaea,Iudaeum	jüdisch; Subst. der Jude	
+disciplina	die Lehre, die Ordnung, die Sitte	
+dividere,divido,divisi,divisum	teilen, trennen	
+inimicus,inimica,inimicum	feindlich; Subst. der Feind	
+mandare,mando	einen Auftrag geben, übergeben	
+eo	dorthin, deswegen	
+producere,produco,produxi,productum	(vor)führen, hervorbringen	
+frustra	vergeblich	
+tendere,tendo,tetendi,tentum	(aus)strecken, spannen, sich anstrengen	
+tumultus	der Aufstand, die Unruhe	
+hinc	von hier, herauf	
+excipere,excipio,excepi,exceptum	aufnehmen, eine Ausnahme machen	
+requirere,requiro,requisivi,requisitum	aufsuchen, sich erkunden, verlangen	
+insequi,insequor,insecutus sum	unmittelbar folgen, verfolgen	
+sive,seu	oder, oder wenn	
+continere,contineo,continui	festhalten, enthalten	
+crux,crucis	das Kreuz	
+merces,mercedis	der Lohn	
+neque tamen	freilich nicht, jedoch nicht	
+natus,nata	der Sohn / die Tochter	
+nuptiae,nuptiarum	die Hochzeit	
+sane	allerdings, gewiss; meinetwegen	
+quidam,quaedam,quoddam	ein gewisser, (irgend)ein; Pl. einige	
+vulgus,vulgi	die Leute (aus dem Volk), die große Masse, der Pöbel	
+nudus,nuda,nudum	nackt	
+saevire,saevio	wütend, rasen	
+elegans,elegantis	elegant, erlesen, geschmackvoll	
+locuples,locupletis	reich, wohlhabend	
+oleum	das Ül, das Olivenöl	
+supplex,supplicis	demütig, bittend	
+coram	vor aller Augen, persönlich, öffentlich in Gegenwart von´	
+coram publico	in aller Öffentlichkeit	
+foedus,foederis	das Büdnis, der Vertrag	
+verum	aber, sondern	
+ater,atra,atrum	schwarz, düster	
+urere,uro	(ver)brennen, ausdörren, austrocknen	
+dido amore uritur	Dido ist in Liebe entbrannt	
+sol agros urit	Die Sonne trocknet die Felder aus	
+propius	näher	
+flamma	die Flamme, das Feuer	
+cingere,cingo,cinxi,cinctum	umgeben, umzingeln	
+oppidum moenibus cingere	eine Stadt mit Mauren umgeben	
+hostes cingere	die Feinde umzingeln	
+incendium	der Brand, das Feuer	
+quocumque	wohin auch immer	
+dirus,dira,dirum	schrecklich, grauenvoll	
+lignum	das Holz	
+cinis,cineris	die Asche	
+angustus,angusta,angustum	eng, schwierig	
+crudelitas,crudelitatis	die Grausamkeit	
+caedes,caedis	der Mord, das Blutbad	
+lacerare,lacero	zerreißen, zerfetzen	
+innocens,innocentis	unschuldig	
+parvi ducere	geringschätzen, geringachten	
+Christianus,Christiana,Christianum	christlich; Subst. der Christ	
+proferre,profero,protuli	(hervor)holen, zur Sprache bringen	
+paulo ante	kurz vorher	
+patres conscripti	die Senatoren	
+otiosus,otiosa,otiosum	müßig, untätig, unbeschäftigt	
+hospes,hospitis	der Fremde, der Gast, der Gastgeber	
+invitare,invito	einladen	
+domi	zu Hause, daheim (wo?)	
+ludere,ludo,lusi	spielen	
+libet,libuit	es gefällt; es beliebt	
+simul	sobald	
+canere,cano,cecini	singen, (ver)künden	
+antecedere,antecedo,antecessi	jdn. übertreffen, überlegen sein	
+quire,queo,quivi(quii)	können	
+hoc vix dicere queo.	Dies kann ich kaum sagen.	
+hoc facere non queunt.	Sie können dies nicht machen.	
+dimicare,dimico	kämpfen	
+vastus,vasta,vastum	riesig; öde, verwüstet	
+rapidus,rapida,rapidum	reißend, wild	
+Sicut	(so) wie	
+Penitus	Gänzlich, völlig	
+consumere,consumo, consumpsi, consumptum	Verbrauchen, verwenden	
+libido,libidinis	Das Verlangen (nach), die Lust, die Willkür	
+liberalis	Vornehm, edel, freigebig	
+concupiscere,concupisco, concupivi	Begehren, verlangen	
+Victus,victus	Die Lebensweise, die Lebensart	
+Commodus	Günstig, angenehm, angemessen	
+Consuetudo,consuetudinis	Die Gewohnheiten	
+vel...vel	Entweder … oder	
+Scriptum	Das Buch, die Abhandlung	
+Gravis	Schwer; bedeutend, angesehen	
+Lepidus	Niedlich, nett, geistreich	
+se praebere	Sich zeigen, sich erweisen als	
+copiosus	Reich, wohlhabend	
+singularis	Einzeln; ausgezeichnet, vorzüglich	
+opus est	Es ist nötig, man braucht (etw.)	
+nobis amicis opus est	Wir brauchen Freunde	
+strenuus	Kräftig, tätig	
+incendere,incendo,incendi,incensum	Entflammen, in Brand stecken	
+inducere,induco,induxi,inductum	(hin)einführen, verleiten	
+ad bellum inducere	zum Krieg verleiten	
+foras	Heraus, hinaus (wohin?)	
+probus	Anständig, gut	
+amplitudo,amplitudinis	Der (große) Umfang; die Großartigkeit, die Erhabenheit	
+repentinus	Plötzlich, unvermutet	
+lumen,luminis	Das Licht; das Auge	
+acies,aciei	Die Schlachtordnung, die Schärfe	
+circumvenire,circumvenio,circumveni,circumventum	Umbringen, umzingeln	
+dedere,dedo,dedidi,deditum	Ausliefern, übergeben	
+se dedere	sich ergeben	
+praedicare,praedico	Behaupten	
+distribuere,distribuo,distribui,distributum	Verteilen	
+tot...quo	So viele … wie	
+uniusque	Jeder Einzelne	
+quo...eo	Je … desto	
+quo	Damit umso	
+fidelis	Treu, ergeben	
+totiens...quotiens	So oft … wie (oft)	
+paratus	Bereit, beschlossen	
+tutela	Der Schutz	
+referet	Es ist wichtig (für jdn.)	
+referet mea	es ist wichtig für mich	
+caesaris referet	es ist für den Kaiser wichtig	
+recusare,recuso	Sich weigern	
+talis...qualis	So (beschaffen) … wie (beschaffen)	
+qualis	Wie beschaffen, was für eine(e)	
+adversus	Entgegengesetzt, feindlich	
+fac!	Tu!, mach!, handle!	
+consuevisse,consuevi	Gewohnt sein	
+hoc fieri consuevit.	Das geschieht gewöhnlich	
+novisse,novi	Kennen, wissen	
+odisse,odi	Hassen	
+meminisse,memini	(Gen. / Akk.)Sich erinnern an; (Acl.) daran denken	
+avi / avum memini	Ich erinnere mich an den Großvater.	
+meministine me esse amicum tuum?	Denkst du daran, dass ich dein Freund bin?	
+fructus,fructus	Die Frucht, der Nutzen, der Ertrag	
+fructum capere	Nutzen ziehen	
+quis est, qui	Wen gibt es, der …	
+unusquisque nostrum	Ein jeder von uns	
+sunt, qui	Es gibt Leute, die …	
+universus	Gesamt; Pl. alle zusammen	
+sive...sive	Sei es (dass) … sei es (dass)	
+simulacrum	Das Bild, der Schatten (eines Toten)	
+quippe qui (quippe cum)	Da ja	
+dignus qui	Würdig, zu …	
+bibliotheca	Die Bibliothek	
+superior,superius (Gen.) superbioris	Der frühere, der weiter oben gelegene	
+excedere,excedo,excessi,excessum	Hinausgehen, weggehen; überschreiten	
+plerumque	Meistens	
+Aristoteles,Aristotelis	Aristoteles (Philosoph 384-322 v. Chr.)	
+Plato,Platonis	Plato (Philosoph 427 – 348 v. Chr.)	
+parens,parentis	Der Vater, die Mutter; Pl. Eltern	
+pristinus	Früher	
+succedere,succedo,successi,successum	(nach) folgen, nachrücken	
+niti,nitor,nixus sum	Sich stützen auf; streben (nach)	
+mensa niti	sich auf dem Tisch abstützen	
+viribus nixus	auf Kräfte gestützt	
+ad glorium niti	nach Ruhm streben	
+praesertim (cum)	Besonders (da /weil)	
+quanto...tanto	Je … desto	
+quanto altius...tanto melius	je höher … desto besser	
+tollere,tollo,sustuli,sublatum	Aufheben, in die Höhe heben, wegnehmen	
+manus ad caelum tollere	die Hände zum Himmel erheben	
+legem tollere	ein Gesetz aufheben	
+atrox,atrocis	Hart, wild, grausam	
+confligere,confligo,conflixi,conflictum	Aneinander geraten, erbittert kämpfen	
+Fundere,fundo,fudi,fusum	(aus)gießen, zerstreuen	
+abducere,abduco,abduxi,abductum	Wegführen	
+ruina	Die Ruine	
+quamdiu	Wie lange, solange	
+iniquus	Ungerecht, ungleich	
+certare,certo	Kämpfen, streiten	
+cito	Schnell	
+universum	Die Welt, das Weltall	
+forte	Zufällig	
+interire,intereo,interii	Untergehen, zugrunde gehen	
+transferre,transfero,transtuli,translatum	hinübertragen	
+prudens,prudentis	Erfahren, klug	
+plane	Deutlich klar, ausdrücklich	
+brevitas,brevitatis	Die Kürze	
+apparet	Es ist klar, es zeigt sich	
+apparet vos gloriam petere	Es ist klar, dass ihr nach Ruhm strebt	
+audere,audeo,ausus sum	wagen	
+mundus	Die Welt; das Weltall, das Universum	
+solere,soleo,solitus sum	Gewohnt sein, gewöhnlich etw. tun	
+cato hoc dicere solebat.	Cato sagte gewöhnlich dies.	
+confidere,confido,confisus sum	Vertrauen	
+creber,crebra,crebrum	Häufig, zahlreich	
+crebro	häufig	
+rursus	Wieder	
+reverti,revertor,reverti,reversum	Zurückkehren	
+perspicere,perspicio,perspexi,perspectum	Durchschauen, genau betrachten, sehen, erkennen	
+celeritas,celeritatis	Die Schnelligkeit	
+infinitus	Unbegrenzt	
+vulgo	Allgemein, gewöhnlich	
+quomodo	Wie? Auf welche Weise?	
+gaudere,gaudeo,gavisus sum	Sich freuen	
+reperire,reperio,repperi,repertum	(wieder)finden	
+nauta	Der Schiffer, der Seemann	
+alter...alter	Der eine … der andere	
+sedes,sedis	Der Platz, der Sitz, der Wohnsitz	
+aestus	Die Hitze, die Flut	
+egredi,egredior,egressus sum	Hinausgehen, verlassen	
+modum egredi	das Maß überschreiten	
+praeferre,praefero,praetuli,praelatum	Vorziehen	
+prosus	Überhaupt, völlig	
+vix quisquam	Kaum jemand	
+adeo	So sehr	
+frui,fruor	Genießen, sich an etwas erfreuen	
+supremus	Der (die, das) höchste, letzte, oberste	
+gratias agere	Danke sagen, danken	
